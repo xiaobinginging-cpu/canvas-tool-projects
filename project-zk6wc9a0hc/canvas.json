@@ -294,7 +294,6 @@
         "parentImageId": "fneTgBkSbVSugK7aRJhqv",
         "generatedAt": 1777730180477
       },
-      "isLoading": false,
       "cancelable": false
     },
     {
@@ -322,7 +321,6 @@
         "parentImageId": "fneTgBkSbVSugK7aRJhqv",
         "generatedAt": 1777730180478
       },
-      "isLoading": false,
       "cancelable": false
     }
   ]
