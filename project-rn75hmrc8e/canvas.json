@@ -16,6 +16,24 @@
         "uploadedAt": 1777736410853,
         "originalFilename": "12fdabd652a07399d2a590e4d1e99b8a.jpg"
       },
+      "isLoading": false
+    },
+    {
+      "id": "zpxYTZDTZlhIrI58Qai14",
+      "src": "assets/img-zpxYTZDTZlhIrI58Qai14.jpg",
+      "position": {
+        "x": 339,
+        "y": 90.625
+      },
+      "size": {
+        "w": 600,
+        "h": 575
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777736418693,
+        "originalFilename": "025fb70475a7e2c9f2fcc62bac04f607.jpg"
+      },
       "isLoading": true
     }
   ]
