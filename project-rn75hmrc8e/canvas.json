@@ -1,3 +1,22 @@
 {
-  "images": []
+  "images": [
+    {
+      "id": "LfCZ263yuhWk4KT7fPMML",
+      "src": "assets/img-LfCZ263yuhWk4KT7fPMML.jpg",
+      "position": {
+        "x": 352,
+        "y": 48.125
+      },
+      "size": {
+        "w": 514,
+        "h": 600
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777736410853,
+        "originalFilename": "12fdabd652a07399d2a590e4d1e99b8a.jpg"
+      },
+      "isLoading": true
+    }
+  ]
 }
