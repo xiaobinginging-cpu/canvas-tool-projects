@@ -73,27 +73,6 @@
       "cancelable": false
     },
     {
-      "id": "4b590AJLIeMQ_6rext-YZ",
-      "src": "assets/img-VMn97lqT8u-Pmcnx3xJTM.png",
-      "position": {
-        "x": 44.02380952380928,
-        "y": -842.601190476191
-      },
-      "size": {
-        "w": 512,
-        "h": 512
-      },
-      "source": "generated",
-      "metadata": {
-        "prompt": "一只小章鱼",
-        "api": "google",
-        "model": "gemini-2.5-flash-image",
-        "ratio": "1:1",
-        "generatedAt": 1777725717243
-      },
-      "cancelable": false
-    },
-    {
       "id": "IoRKDn2-OjBG-hTOTG4NA",
       "src": "assets/img-IoRKDn2-OjBG-hTOTG4NA.jpg",
       "position": {
