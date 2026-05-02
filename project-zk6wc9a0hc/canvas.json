@@ -50,6 +50,28 @@
         "uploadedAt": 1777723146332,
         "originalFilename": "截屏2026-05-02 14.15.55.png"
       }
+    },
+    {
+      "id": "gWPeMNcjZ6vwUW_Ht2JMi",
+      "src": "assets/img-SwDyB1Wi9nIb9ZmNB0IVA.png",
+      "position": {
+        "x": 186.3571428571429,
+        "y": 282.3988095238094
+      },
+      "size": {
+        "w": 600,
+        "h": 450
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "一只小章鱼",
+        "api": "google",
+        "model": "gemini-2.5-flash-image",
+        "ratio": "4:3",
+        "generatedAt": 1777725611529
+      },
+      "isLoading": false,
+      "cancelable": false
     }
   ]
 }
