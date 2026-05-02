@@ -177,6 +177,24 @@
         "uploadedAt": 1777725828758,
         "originalFilename": "025fb70475a7e2c9f2fcc62bac04f607.jpg"
       },
+      "isLoading": false
+    },
+    {
+      "id": "vUkSsnwScROU3c4L5k6vU",
+      "src": "assets/img-vUkSsnwScROU3c4L5k6vU.jpg",
+      "position": {
+        "x": 1349.3571428571431,
+        "y": 1061.5238095238094
+      },
+      "size": {
+        "w": 514,
+        "h": 600
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777725859903,
+        "originalFilename": "12fdabd652a07399d2a590e4d1e99b8a.jpg"
+      },
       "isLoading": true
     }
   ]
