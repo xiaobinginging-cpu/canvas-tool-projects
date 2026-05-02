@@ -38,7 +38,7 @@
     },
     {
       "id": "difla02Vayjz5Ck0diDgl",
-      "src": "pending",
+      "src": "assets/img-difla02Vayjz5Ck0diDgl.png",
       "position": {
         "x": 2314.017543859656,
         "y": 887.9619883040966
@@ -58,14 +58,14 @@
           "zpxYTZDTZlhIrI58Qai14",
           "LfCZ263yuhWk4KT7fPMML"
         ],
-        "generatedAt": 1777736492280
+        "generatedAt": 1777736504009
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "jZ7RDAEt5b7vwDctGv00N",
-      "src": "pending",
+      "src": "assets/img-jZ7RDAEt5b7vwDctGv00N.png",
       "position": {
         "x": 1133.4912280701776,
         "y": 854.8040935672536
@@ -85,14 +85,14 @@
           "zpxYTZDTZlhIrI58Qai14",
           "LfCZ263yuhWk4KT7fPMML"
         ],
-        "generatedAt": 1777736492280
+        "generatedAt": 1777736504010
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "Euxv_kcbUqwB89tLVPNPv",
-      "src": "pending",
+      "src": "assets/img-Euxv_kcbUqwB89tLVPNPv.png",
       "position": {
         "x": 5.596491228070149,
         "y": 842.6988304093587
@@ -112,14 +112,14 @@
           "zpxYTZDTZlhIrI58Qai14",
           "LfCZ263yuhWk4KT7fPMML"
         ],
-        "generatedAt": 1777736492280
+        "generatedAt": 1777736504010
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "zzpLsqB-FuZ2E8KLZ4UVd",
-      "src": "pending",
+      "src": "assets/img-zzpLsqB-FuZ2E8KLZ4UVd.png",
       "position": {
         "x": -1138.087719298247,
         "y": 830.5935672514631
@@ -139,10 +139,10 @@
           "zpxYTZDTZlhIrI58Qai14",
           "LfCZ263yuhWk4KT7fPMML"
         ],
-        "generatedAt": 1777736492280
+        "generatedAt": 1777736504010
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ]
 }
