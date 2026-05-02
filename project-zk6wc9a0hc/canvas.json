@@ -72,6 +72,94 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "4b590AJLIeMQ_6rext-YZ",
+      "src": "assets/img-VMn97lqT8u-Pmcnx3xJTM.png",
+      "position": {
+        "x": 260.3571428571429,
+        "y": 281.3988095238094
+      },
+      "size": {
+        "w": 512,
+        "h": 512
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "一只小章鱼",
+        "api": "google",
+        "model": "gemini-2.5-flash-image",
+        "ratio": "1:1",
+        "generatedAt": 1777725717243
+      },
+      "isLoading": false,
+      "cancelable": false
+    },
+    {
+      "id": "RG86Dljjmyz8BGbwOemCZ",
+      "src": "pending",
+      "position": {
+        "x": 290.3571428571429,
+        "y": 311.3988095238094
+      },
+      "size": {
+        "w": 512,
+        "h": 512
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "一只小章鱼",
+        "api": "google",
+        "model": "gemini-2.5-flash-image",
+        "ratio": "1:1",
+        "generatedAt": 1777725711710
+      },
+      "isLoading": true,
+      "cancelable": true
+    },
+    {
+      "id": "Zx2O4qivKWYyrefJejqzz",
+      "src": "pending",
+      "position": {
+        "x": 320.3571428571429,
+        "y": 341.3988095238094
+      },
+      "size": {
+        "w": 512,
+        "h": 512
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "一只小章鱼",
+        "api": "google",
+        "model": "gemini-2.5-flash-image",
+        "ratio": "1:1",
+        "generatedAt": 1777725711710
+      },
+      "isLoading": true,
+      "cancelable": true
+    },
+    {
+      "id": "7vM-1DAScu7HF1BxhSB1V",
+      "src": "pending",
+      "position": {
+        "x": 350.3571428571429,
+        "y": 371.3988095238094
+      },
+      "size": {
+        "w": 512,
+        "h": 512
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "一只小章鱼",
+        "api": "google",
+        "model": "gemini-2.5-flash-image",
+        "ratio": "1:1",
+        "generatedAt": 1777725711710
+      },
+      "isLoading": true,
+      "cancelable": true
     }
   ]
 }
