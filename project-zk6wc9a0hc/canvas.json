@@ -219,8 +219,8 @@
       "id": "muD73YgZKS6Mq5eTHgvC6",
       "src": "assets/img-3ClvF6coiBmdijm-6RvqC.jpg",
       "position": {
-        "x": 2175.333333333333,
-        "y": -939.4999999999998
+        "x": 2370.571428571429,
+        "y": -910.9285714285709
       },
       "size": {
         "w": 2048,
@@ -240,7 +240,6 @@
         "parentImageId": "wiLlicK74W3UCHdEYENqU",
         "generatedAt": 1777727305355
       },
-      "isLoading": false,
       "cancelable": false
     }
   ]
