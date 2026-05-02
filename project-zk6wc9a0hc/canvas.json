@@ -114,8 +114,8 @@
       "id": "fneTgBkSbVSugK7aRJhqv",
       "src": "assets/img-fneTgBkSbVSugK7aRJhqv.jpg",
       "position": {
-        "x": -1585.2077922077935,
-        "y": -134.30194805194697
+        "x": -1974.0966810966825,
+        "y": -234.30194805194742
       },
       "size": {
         "w": 1024,
@@ -215,7 +215,6 @@
         ],
         "generatedAt": 1777733154936
       },
-      "isLoading": false,
       "cancelable": false
     },
     {
@@ -242,7 +241,6 @@
         ],
         "generatedAt": 1777733154936
       },
-      "isLoading": false,
       "cancelable": false
     },
     {
@@ -269,7 +267,6 @@
         ],
         "generatedAt": 1777733154937
       },
-      "isLoading": false,
       "cancelable": false
     },
     {
@@ -296,7 +293,6 @@
         ],
         "generatedAt": 1777733154937
       },
-      "isLoading": false,
       "cancelable": false
     }
   ]
