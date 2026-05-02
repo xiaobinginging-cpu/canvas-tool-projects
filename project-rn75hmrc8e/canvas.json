@@ -161,6 +161,118 @@
         "originalFilename": "1b72b7fe2d39751eb9148aa82557ca47.jpg"
       },
       "isLoading": false
+    },
+    {
+      "id": "Ik-xhhvAXciCMGoI3Fv-g",
+      "src": "pending",
+      "position": {
+        "x": 1647.3846153846182,
+        "y": 1504.2435897435937
+      },
+      "size": {
+        "w": 1024,
+        "h": 1365
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "把图片1的绿色岛台形式改为图片2蓝色岛台的形式（前方嵌入一组圆形桌椅组合），保持图片1其它地方保持不变，保持图片1的构图和比例不变，相机视角不变。",
+        "api": "google",
+        "model": "gemini-2.5-flash-image",
+        "ratio": "3:4",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "zpxYTZDTZlhIrI58Qai14",
+          "LfCZ263yuhWk4KT7fPMML"
+        ],
+        "parentImageId": "jZ7RDAEt5b7vwDctGv00N",
+        "generatedAt": 1777736602228
+      },
+      "isLoading": true,
+      "cancelable": true
+    },
+    {
+      "id": "XT2jQMhmA5-ZV5UeULTUX",
+      "src": "pending",
+      "position": {
+        "x": 1677.3846153846182,
+        "y": 1534.2435897435937
+      },
+      "size": {
+        "w": 1024,
+        "h": 1365
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "把图片1的绿色岛台形式改为图片2蓝色岛台的形式（前方嵌入一组圆形桌椅组合），保持图片1其它地方保持不变，保持图片1的构图和比例不变，相机视角不变。",
+        "api": "google",
+        "model": "gemini-2.5-flash-image",
+        "ratio": "3:4",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "zpxYTZDTZlhIrI58Qai14",
+          "LfCZ263yuhWk4KT7fPMML"
+        ],
+        "parentImageId": "jZ7RDAEt5b7vwDctGv00N",
+        "generatedAt": 1777736602228
+      },
+      "isLoading": true,
+      "cancelable": true
+    },
+    {
+      "id": "OE9drqjfZnR9aPFlEGDJL",
+      "src": "pending",
+      "position": {
+        "x": 1707.3846153846182,
+        "y": 1564.2435897435937
+      },
+      "size": {
+        "w": 1024,
+        "h": 1365
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "把图片1的绿色岛台形式改为图片2蓝色岛台的形式（前方嵌入一组圆形桌椅组合），保持图片1其它地方保持不变，保持图片1的构图和比例不变，相机视角不变。",
+        "api": "google",
+        "model": "gemini-2.5-flash-image",
+        "ratio": "3:4",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "zpxYTZDTZlhIrI58Qai14",
+          "LfCZ263yuhWk4KT7fPMML"
+        ],
+        "parentImageId": "jZ7RDAEt5b7vwDctGv00N",
+        "generatedAt": 1777736602228
+      },
+      "isLoading": true,
+      "cancelable": true
+    },
+    {
+      "id": "oVJ6y3UEKb9FtNrbNfOOw",
+      "src": "pending",
+      "position": {
+        "x": 1191.23076923077,
+        "y": 871.1666666666689
+      },
+      "size": {
+        "w": 1024,
+        "h": 1365
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "把图片1的绿色岛台形式改为图片2蓝色岛台的形式（前方嵌入一组圆形桌椅组合），保持图片1其它地方保持不变，保持图片1的构图和比例不变，相机视角不变。",
+        "api": "google",
+        "model": "gemini-2.5-flash-image",
+        "ratio": "3:4",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "zpxYTZDTZlhIrI58Qai14",
+          "LfCZ263yuhWk4KT7fPMML"
+        ],
+        "parentImageId": "jZ7RDAEt5b7vwDctGv00N",
+        "generatedAt": 1777736602228
+      },
+      "isLoading": true,
+      "cancelable": true
     }
   ]
 }
