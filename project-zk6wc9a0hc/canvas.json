@@ -1,22 +1,3 @@
 {
-  "images": [
-    {
-      "id": "KF2C9YV5SuNfXZXQeO1sD",
-      "src": "assets/img-KF2C9YV5SuNfXZXQeO1sD.png",
-      "position": {
-        "x": 136,
-        "y": 143.125
-      },
-      "size": {
-        "w": 600,
-        "h": 410
-      },
-      "source": "upload",
-      "metadata": {
-        "uploadedAt": 1777721208741,
-        "originalFilename": "截屏2026-05-02 16.25.31.png"
-      },
-      "isLoading": true
-    }
-  ]
+  "images": []
 }
