@@ -143,6 +143,24 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "3hDUJJpuOfbe47ffrC-k3",
+      "src": "assets/img-3hDUJJpuOfbe47ffrC-k3.jpg",
+      "position": {
+        "x": 1262.7103002351257,
+        "y": 1825.267361111113
+      },
+      "size": {
+        "w": 401,
+        "h": 600
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777736544391,
+        "originalFilename": "1b72b7fe2d39751eb9148aa82557ca47.jpg"
+      },
+      "isLoading": true
     }
   ]
 }
