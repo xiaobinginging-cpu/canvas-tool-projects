@@ -195,7 +195,33 @@
         "uploadedAt": 1777725859903,
         "originalFilename": "12fdabd652a07399d2a590e4d1e99b8a.jpg"
       },
-      "isLoading": true
+      "isLoading": false
+    },
+    {
+      "id": "wiLlicK74W3UCHdEYENqU",
+      "src": "pending",
+      "position": {
+        "x": 1991.3571428571431,
+        "y": 415.52380952380935
+      },
+      "size": {
+        "w": 450,
+        "h": 600
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "把图片1的绿色岛台形式改为图片2蓝色岛台的形式（前方嵌入一组圆形桌椅组合），保持图片1其它地方保持不变，保持图片1的构图和比例不变，相机视角不变。",
+        "api": "google",
+        "model": "gemini-3.1-flash-image-preview",
+        "ratio": "3:4",
+        "referenceImageIds": [
+          "IoRKDn2-OjBG-hTOTG4NA",
+          "vUkSsnwScROU3c4L5k6vU"
+        ],
+        "generatedAt": 1777725983406
+      },
+      "isLoading": true,
+      "cancelable": true
     }
   ]
 }
