@@ -2,6 +2,7 @@
   "id": "rn75hmrc8e",
   "name": "test000",
   "createdAt": 1777708186337,
-  "updatedAt": 1777708404245,
-  "pinned": false
+  "updatedAt": 1777708499328,
+  "pinned": true,
+  "pinnedAt": 1777708499328
 }
