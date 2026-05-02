@@ -293,7 +293,6 @@
         ],
         "generatedAt": 1777734287595
       },
-      "isLoading": true,
       "cancelable": true
     },
     {
@@ -320,7 +319,6 @@
         ],
         "generatedAt": 1777734287595
       },
-      "isLoading": true,
       "cancelable": true
     },
     {
@@ -347,15 +345,14 @@
         ],
         "generatedAt": 1777734287595
       },
-      "isLoading": true,
       "cancelable": true
     },
     {
       "id": "Ny3fL95OlnvWEtvBLcxNq",
       "src": "pending",
       "position": {
-        "x": 2310.3333333333253,
-        "y": 5343.173076923086
+        "x": -2269.666666666703,
+        "y": 5143.173076923086
       },
       "size": {
         "w": 1024,
@@ -374,7 +371,6 @@
         ],
         "generatedAt": 1777734287595
       },
-      "isLoading": true,
       "cancelable": true
     }
   ]
