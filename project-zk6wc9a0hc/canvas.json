@@ -1,3 +1,22 @@
 {
-  "images": []
+  "images": [
+    {
+      "id": "MxqWutQChMBHBJVdfc5ge",
+      "src": "assets/img-MxqWutQChMBHBJVdfc5ge.png",
+      "position": {
+        "x": 285,
+        "y": 244.125
+      },
+      "size": {
+        "w": 302,
+        "h": 208
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777721930890,
+        "originalFilename": "截屏2026-05-02 16.48.16.png"
+      },
+      "isLoading": true
+    }
+  ]
 }
