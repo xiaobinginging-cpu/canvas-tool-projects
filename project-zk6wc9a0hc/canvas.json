@@ -160,6 +160,24 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "IoRKDn2-OjBG-hTOTG4NA",
+      "src": "assets/img-IoRKDn2-OjBG-hTOTG4NA.jpg",
+      "position": {
+        "x": 1276.3571428571431,
+        "y": 1044.0238095238094
+      },
+      "size": {
+        "w": 600,
+        "h": 575
+      },
+      "source": "reference",
+      "metadata": {
+        "uploadedAt": 1777725828758,
+        "originalFilename": "025fb70475a7e2c9f2fcc62bac04f607.jpg"
+      },
+      "isLoading": true
     }
   ]
 }
