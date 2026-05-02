@@ -1,22 +1,3 @@
 {
-  "images": [
-    {
-      "id": "HivJ_r8H58bLDJfOveU7Q",
-      "src": "assets/img-HivJ_r8H58bLDJfOveU7Q.png",
-      "position": {
-        "x": 204,
-        "y": 295
-      },
-      "size": {
-        "w": 302,
-        "h": 208
-      },
-      "source": "upload",
-      "metadata": {
-        "uploadedAt": 1777721895616,
-        "originalFilename": "截屏2026-05-02 16.48.16.png"
-      },
-      "isLoading": true
-    }
-  ]
+  "images": []
 }
