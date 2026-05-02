@@ -246,8 +246,8 @@
       "id": "fneTgBkSbVSugK7aRJhqv",
       "src": "assets/img-fneTgBkSbVSugK7aRJhqv.jpg",
       "position": {
-        "x": -1106.6363636363642,
-        "y": -677.1590909090905
+        "x": -1585.2077922077935,
+        "y": -134.30194805194697
       },
       "size": {
         "w": 1024,
@@ -267,7 +267,6 @@
         "parentImageId": "wiLlicK74W3UCHdEYENqU",
         "generatedAt": 1777730129712
       },
-      "isLoading": false,
       "cancelable": false
     }
   ]
