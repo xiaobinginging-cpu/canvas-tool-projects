@@ -70,7 +70,6 @@
         "ratio": "4:3",
         "generatedAt": 1777725611529
       },
-      "isLoading": false,
       "cancelable": false
     },
     {
@@ -92,15 +91,14 @@
         "ratio": "1:1",
         "generatedAt": 1777725717243
       },
-      "isLoading": false,
       "cancelable": false
     },
     {
       "id": "RG86Dljjmyz8BGbwOemCZ",
       "src": "assets/img-Al_Y7qITdxhj0z4PsLKzT.png",
       "position": {
-        "x": -851.9761904761904,
-        "y": 370.0654761904761
+        "x": -559.9761904761904,
+        "y": 158.0654761904761
       },
       "size": {
         "w": 512,
@@ -114,7 +112,6 @@
         "ratio": "1:1",
         "generatedAt": 1777725717755
       },
-      "isLoading": false,
       "cancelable": false
     },
     {
@@ -136,7 +133,6 @@
         "ratio": "1:1",
         "generatedAt": 1777725717485
       },
-      "isLoading": false,
       "cancelable": false
     },
     {
@@ -158,7 +154,6 @@
         "ratio": "1:1",
         "generatedAt": 1777725717562
       },
-      "isLoading": false,
       "cancelable": false
     },
     {
@@ -176,8 +171,7 @@
       "metadata": {
         "uploadedAt": 1777725828758,
         "originalFilename": "025fb70475a7e2c9f2fcc62bac04f607.jpg"
-      },
-      "isLoading": false
+      }
     },
     {
       "id": "vUkSsnwScROU3c4L5k6vU",
@@ -194,8 +188,7 @@
       "metadata": {
         "uploadedAt": 1777725859903,
         "originalFilename": "12fdabd652a07399d2a590e4d1e99b8a.jpg"
-      },
-      "isLoading": false
+      }
     },
     {
       "id": "wiLlicK74W3UCHdEYENqU",
@@ -220,7 +213,6 @@
         ],
         "generatedAt": 1777725996375
       },
-      "isLoading": false,
       "cancelable": false
     }
   ]
