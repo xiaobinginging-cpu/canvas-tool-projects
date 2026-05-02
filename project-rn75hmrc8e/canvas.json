@@ -164,7 +164,7 @@
     },
     {
       "id": "Ik-xhhvAXciCMGoI3Fv-g",
-      "src": "pending",
+      "src": "assets/img-Ik-xhhvAXciCMGoI3Fv-g.png",
       "position": {
         "x": 2332.0000000000055,
         "y": 2327.3205128205177
@@ -185,14 +185,14 @@
           "LfCZ263yuhWk4KT7fPMML"
         ],
         "parentImageId": "jZ7RDAEt5b7vwDctGv00N",
-        "generatedAt": 1777736602228
+        "generatedAt": 1777736613957
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "XT2jQMhmA5-ZV5UeULTUX",
-      "src": "pending",
+      "src": "assets/img-XT2jQMhmA5-ZV5UeULTUX.png",
       "position": {
         "x": 1254.3076923076937,
         "y": 2349.6282051282114
@@ -213,14 +213,14 @@
           "LfCZ263yuhWk4KT7fPMML"
         ],
         "parentImageId": "jZ7RDAEt5b7vwDctGv00N",
-        "generatedAt": 1777736602228
+        "generatedAt": 1777736613958
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "OE9drqjfZnR9aPFlEGDJL",
-      "src": "pending",
+      "src": "assets/img-OE9drqjfZnR9aPFlEGDJL.png",
       "position": {
         "x": 2245.846153846159,
         "y": 902.7051282051309
@@ -241,14 +241,14 @@
           "LfCZ263yuhWk4KT7fPMML"
         ],
         "parentImageId": "jZ7RDAEt5b7vwDctGv00N",
-        "generatedAt": 1777736602228
+        "generatedAt": 1777736613958
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "oVJ6y3UEKb9FtNrbNfOOw",
-      "src": "pending",
+      "src": "assets/img-oVJ6y3UEKb9FtNrbNfOOw.png",
       "position": {
         "x": 1191.23076923077,
         "y": 871.1666666666689
@@ -269,10 +269,10 @@
           "LfCZ263yuhWk4KT7fPMML"
         ],
         "parentImageId": "jZ7RDAEt5b7vwDctGv00N",
-        "generatedAt": 1777736602228
+        "generatedAt": 1777736613958
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ]
 }
