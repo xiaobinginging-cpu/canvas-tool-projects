@@ -297,33 +297,6 @@
       "cancelable": false
     },
     {
-      "id": "pIRfxAHm3Z2x7hXmu6G_W",
-      "src": "assets/img-pIRfxAHm3Z2x7hXmu6G_W.png",
-      "position": {
-        "x": -1075.8571428571468,
-        "y": 1655.1785714285738
-      },
-      "size": {
-        "w": 1024,
-        "h": 1365
-      },
-      "source": "generated",
-      "metadata": {
-        "prompt": "把图片1的绿色岛台形式改为图片2蓝色岛台的形式（前方嵌入一组圆形桌椅组合），保持图片1其它地方保持不变，保持图片1的构图和比例不变，相机视角不变。",
-        "api": "google",
-        "model": "gemini-2.5-flash-image",
-        "ratio": "3:4",
-        "resolution": "1K",
-        "referenceImageIds": [
-          "IoRKDn2-OjBG-hTOTG4NA",
-          "vUkSsnwScROU3c4L5k6vU"
-        ],
-        "parentImageId": "fneTgBkSbVSugK7aRJhqv",
-        "generatedAt": 1777730180478
-      },
-      "cancelable": false
-    },
-    {
       "id": "gj-zW8B2lmxsFbtHyv03t",
       "src": "assets/img-gj-zW8B2lmxsFbtHyv03t.jpg",
       "position": {
