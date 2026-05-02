@@ -33,6 +33,24 @@
         "uploadedAt": 1777722842997,
         "originalFilename": "IMG_2839.jpg"
       }
+    },
+    {
+      "id": "BuFGbjRlTh7xoel0WDSB0",
+      "src": "assets/img-BuFGbjRlTh7xoel0WDSB0.png",
+      "position": {
+        "x": 196,
+        "y": 219.625
+      },
+      "size": {
+        "w": 600,
+        "h": 377
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777723146332,
+        "originalFilename": "截屏2026-05-02 14.15.55.png"
+      },
+      "isLoading": true
     }
   ]
 }
