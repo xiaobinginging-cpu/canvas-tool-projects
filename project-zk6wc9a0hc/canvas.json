@@ -52,27 +52,6 @@
       }
     },
     {
-      "id": "gWPeMNcjZ6vwUW_Ht2JMi",
-      "src": "assets/img-SwDyB1Wi9nIb9ZmNB0IVA.png",
-      "position": {
-        "x": -1326.6428571428569,
-        "y": -856.2678571428568
-      },
-      "size": {
-        "w": 600,
-        "h": 450
-      },
-      "source": "generated",
-      "metadata": {
-        "prompt": "一只小章鱼",
-        "api": "google",
-        "model": "gemini-2.5-flash-image",
-        "ratio": "4:3",
-        "generatedAt": 1777725611529
-      },
-      "cancelable": false
-    },
-    {
       "id": "IoRKDn2-OjBG-hTOTG4NA",
       "src": "assets/img-IoRKDn2-OjBG-hTOTG4NA.jpg",
       "position": {
