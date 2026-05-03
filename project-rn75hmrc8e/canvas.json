@@ -363,22 +363,5 @@
       "createdAt": 1777792434163
     }
   ],
-  "videos": [
-    {
-      "id": "WFMZcnWlOcJmS_G6iV2ku",
-      "x": 2468.764524823058,
-      "y": 301.6541727034138,
-      "width": 640,
-      "height": 360,
-      "src": "pending",
-      "duration": 3,
-      "api": "apimart",
-      "model": "happyhorse-1.0",
-      "prompt": "一个人在美术馆看展览",
-      "ratio": "16:9",
-      "videoQuality": "1080P",
-      "isLoading": false,
-      "cancelable": false
-    }
-  ]
+  "videos": []
 }
