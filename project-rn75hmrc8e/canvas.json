@@ -215,7 +215,7 @@
     },
     {
       "id": "CjB2OLX8eqsXpURfsz06E",
-      "src": "pending",
+      "src": "assets/img-CjB2OLX8eqsXpURfsz06E.jpg",
       "position": {
         "x": 1212.5964276633604,
         "y": 2286.1043136600556
@@ -235,10 +235,10 @@
           "TURtGnVdxllqoQu0tSWrc"
         ],
         "parentImageId": "JyMddFIrwSbXhQt7Dueit",
-        "generatedAt": 1777799848669
+        "generatedAt": 1777799966435
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "fkl0I_YdZ5K5JEaPpuJ_s",
