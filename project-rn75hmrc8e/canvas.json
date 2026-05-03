@@ -212,6 +212,60 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "CjB2OLX8eqsXpURfsz06E",
+      "src": "pending",
+      "position": {
+        "x": 334.8186498855813,
+        "y": 2397.2154247711687
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "给这只小猫增加一个小狗朋友",
+        "api": "apimart",
+        "model": "gemini-3-pro-image-preview",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "TURtGnVdxllqoQu0tSWrc"
+        ],
+        "parentImageId": "JyMddFIrwSbXhQt7Dueit",
+        "generatedAt": 1777799848669
+      },
+      "isLoading": true,
+      "cancelable": true
+    },
+    {
+      "id": "fkl0I_YdZ5K5JEaPpuJ_s",
+      "src": "pending",
+      "position": {
+        "x": 2348.1519832189133,
+        "y": 2316.104313660056
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "给这只小猫增加一个小狗朋友",
+        "api": "apimart",
+        "model": "gemini-3-pro-image-preview",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "TURtGnVdxllqoQu0tSWrc"
+        ],
+        "parentImageId": "JyMddFIrwSbXhQt7Dueit",
+        "generatedAt": 1777799848670
+      },
+      "isLoading": true,
+      "cancelable": true
     }
   ],
   "textCards": [
