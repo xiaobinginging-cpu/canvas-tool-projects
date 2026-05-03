@@ -269,7 +269,7 @@
     },
     {
       "id": "GnPfKl27uDCOh7u1j7nsW",
-      "src": "pending",
+      "src": "assets/img-GnPfKl27uDCOh7u1j7nsW.png",
       "position": {
         "x": -1199.1130634071735,
         "y": 3401.0814871403127
@@ -289,10 +289,10 @@
           "TURtGnVdxllqoQu0tSWrc"
         ],
         "parentImageId": "JyMddFIrwSbXhQt7Dueit",
-        "generatedAt": 1777805309704
+        "generatedAt": 1777805347471
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ],
   "textCards": [
