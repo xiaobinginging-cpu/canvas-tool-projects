@@ -166,7 +166,7 @@
     },
     {
       "id": "TURtGnVdxllqoQu0tSWrc",
-      "src": "pending",
+      "src": "assets/img-TURtGnVdxllqoQu0tSWrc.jpg",
       "position": {
         "x": 1292.0526315789496,
         "y": 2263.315789473687
@@ -182,10 +182,10 @@
         "model": "gemini-3-pro-image-preview",
         "ratio": "1:1",
         "resolution": "1K",
-        "generatedAt": 1777799732522
+        "generatedAt": 1777799755430
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ],
   "textCards": [
