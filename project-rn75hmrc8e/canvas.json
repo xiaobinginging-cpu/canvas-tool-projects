@@ -396,6 +396,23 @@
       "isLoading": false,
       "cancelable": false,
       "uploadError": "[video/apimart/submit] code 200"
+    },
+    {
+      "id": "aOZG6FppazQ_TiRDGAQtf",
+      "x": 3347.5969900295395,
+      "y": 557.3223968132543,
+      "width": 640,
+      "height": 360,
+      "src": "pending",
+      "duration": 6,
+      "api": "apimart",
+      "model": "grok-imagine-1.0-video-apimart",
+      "prompt": "一个人在看美术展览",
+      "ratio": "16:9",
+      "videoQuality": "720p",
+      "isLoading": false,
+      "cancelable": false,
+      "uploadError": "[video/apimart/submit] code 200"
     }
   ]
 }
