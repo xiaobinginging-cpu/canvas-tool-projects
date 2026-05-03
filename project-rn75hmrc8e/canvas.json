@@ -322,33 +322,6 @@
       "cancelable": false
     },
     {
-      "id": "kYGGfgYHMI6yex8MdyFKO",
-      "src": "pending",
-      "position": {
-        "x": 1959.2826585179614,
-        "y": 3430.6002037178578
-      },
-      "size": {
-        "w": 1024,
-        "h": 1024
-      },
-      "source": "generated",
-      "metadata": {
-        "prompt": "给这只小猫增加一个小狗朋友",
-        "api": "apimart",
-        "model": "doubao-seedream-5-0-lite",
-        "ratio": "1:1",
-        "resolution": "1K",
-        "referenceImageIds": [
-          "TURtGnVdxllqoQu0tSWrc"
-        ],
-        "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
-        "generatedAt": 1777805478602
-      },
-      "isLoading": false,
-      "cancelable": false
-    },
-    {
       "id": "2UR7RyfDpUOdTH4kOPr4E",
       "src": "assets/img-2UR7RyfDpUOdTH4kOPr4E.png",
       "position": {
