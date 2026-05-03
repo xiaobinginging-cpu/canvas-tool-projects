@@ -437,6 +437,27 @@
       "isLoading": false,
       "cancelable": false,
       "generatedAt": 1777813525896
+    },
+    {
+      "id": "tY7lzC9MC6rauPAHijva4",
+      "x": -1096.2740131156022,
+      "y": 1042.6710921092138,
+      "width": 480,
+      "height": 480,
+      "src": "assets/video-tY7lzC9MC6rauPAHijva4.mp4",
+      "duration": 4,
+      "api": "apimart",
+      "model": "doubao-seedance-2.0",
+      "prompt": "小猫（参考图片2），在厨房的吧台上（参考图片1）",
+      "ratio": "1:1",
+      "videoQuality": "480p",
+      "referenceImageIds": [
+        "zpxYTZDTZlhIrI58Qai14",
+        "TURtGnVdxllqoQu0tSWrc"
+      ],
+      "isLoading": false,
+      "cancelable": false,
+      "generatedAt": 1777814119151
     }
   ]
 }
