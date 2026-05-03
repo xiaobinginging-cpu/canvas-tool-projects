@@ -514,6 +514,26 @@
       "videoQuality": "720p",
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "AHQCT9CzPyQYJRfAE90Ei",
+      "x": 2539.2734572750305,
+      "y": 146.48380902504883,
+      "width": 640,
+      "height": 360,
+      "src": "pending",
+      "duration": 3,
+      "api": "apimart",
+      "model": "happyhorse-1.0",
+      "prompt": "一个人在在厨房走动",
+      "ratio": "16:9",
+      "videoQuality": "1080P",
+      "referenceImageIds": [
+        "3hDUJJpuOfbe47ffrC-k3"
+      ],
+      "isLoading": false,
+      "cancelable": false,
+      "uploadError": "[video/apimart/submit] Invalid format for image_urls[0]. Only http/https URLs are supported."
     }
   ]
 }
