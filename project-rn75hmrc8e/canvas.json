@@ -293,6 +293,33 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "DCEs6EU1t8rQg_PosvlXJ",
+      "src": "pending",
+      "position": {
+        "x": 21.79602750191787,
+        "y": 3403.808759867583
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "给这只小猫增加一个小狗朋友",
+        "api": "apimart",
+        "model": "gpt-image-2-official",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "TURtGnVdxllqoQu0tSWrc"
+        ],
+        "parentImageId": "GnPfKl27uDCOh7u1j7nsW",
+        "generatedAt": 1777805368703
+      },
+      "isLoading": true,
+      "cancelable": true
     }
   ],
   "textCards": [
