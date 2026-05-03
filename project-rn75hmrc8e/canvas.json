@@ -498,5 +498,23 @@
       "createdAt": 1777792434163
     }
   ],
-  "videos": []
+  "videos": [
+    {
+      "id": "TqLbo_yMW978hJXgg4mqv",
+      "x": 1854.4927536231917,
+      "y": 161.53623188408935,
+      "width": 640,
+      "height": 360,
+      "src": "pending",
+      "duration": 6,
+      "api": "apimart",
+      "model": "grok-imagine-1.0-video-apimart",
+      "prompt": "手持缓慢运镜，人在看美术展览",
+      "ratio": "16:9",
+      "videoQuality": "720p",
+      "isLoading": false,
+      "cancelable": false,
+      "uploadError": "[video/apimart/submit] code 200"
+    }
+  ]
 }
