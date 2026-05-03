@@ -366,10 +366,10 @@
   "videos": [
     {
       "id": "NWtehVQ7UcqaVNr2beqmc",
-      "x": 1647.4615384615431,
-      "y": 162.76923076922995,
-      "width": 640,
-      "height": 360,
+      "x": 1647.461496112535,
+      "y": -210.230759042594,
+      "width": 1044,
+      "height": 733,
       "src": "assets/video-NWtehVQ7UcqaVNr2beqmc.mp4",
       "duration": 6,
       "api": "apimart",
