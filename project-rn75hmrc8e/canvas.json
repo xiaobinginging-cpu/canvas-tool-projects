@@ -266,6 +266,33 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "GnPfKl27uDCOh7u1j7nsW",
+      "src": "pending",
+      "position": {
+        "x": -1199.1130634071735,
+        "y": 3401.0814871403127
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "给这只小猫增加一个小狗朋友",
+        "api": "apimart",
+        "model": "gemini-3.1-flash-image-preview-official",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "TURtGnVdxllqoQu0tSWrc"
+        ],
+        "parentImageId": "JyMddFIrwSbXhQt7Dueit",
+        "generatedAt": 1777805309704
+      },
+      "isLoading": true,
+      "cancelable": true
     }
   ],
   "textCards": [
