@@ -417,6 +417,25 @@
       "isLoading": false,
       "cancelable": false,
       "generatedAt": 1777811998727
+    },
+    {
+      "id": "UyG4Y4pkiwNpLUl_dSHso",
+      "x": -2322.636363636368,
+      "y": 255.2727272727275,
+      "width": 480,
+      "height": 480,
+      "src": "pending",
+      "duration": 3,
+      "api": "apimart",
+      "model": "kling-v3",
+      "prompt": "手持运镜缓慢拍摄",
+      "ratio": "1:1",
+      "videoQuality": "480p",
+      "referenceImageIds": [
+        "GnPfKl27uDCOh7u1j7nsW"
+      ],
+      "isLoading": true,
+      "cancelable": true
     }
   ]
 }
