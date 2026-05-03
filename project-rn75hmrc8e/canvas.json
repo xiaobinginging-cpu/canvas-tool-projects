@@ -346,8 +346,7 @@
         "generatedAt": 1777805478602
       },
       "isLoading": false,
-      "cancelable": false,
-      "uploadError": "[apimart] task failed"
+      "cancelable": false
     },
     {
       "id": "2UR7RyfDpUOdTH4kOPr4E",
