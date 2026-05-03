@@ -351,7 +351,7 @@
     },
     {
       "id": "2UR7RyfDpUOdTH4kOPr4E",
-      "src": "pending",
+      "src": "assets/img-2UR7RyfDpUOdTH4kOPr4E.png",
       "position": {
         "x": 559.1509521407196,
         "y": 5553.088887409599
@@ -371,14 +371,14 @@
           "TURtGnVdxllqoQu0tSWrc"
         ],
         "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
-        "generatedAt": 1777805720854
+        "generatedAt": 1777805813769
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "Jbt-5utG0EPFP2rEt48fA",
-      "src": "pending",
+      "src": "assets/img-Jbt-5utG0EPFP2rEt48fA.png",
       "position": {
         "x": 1089.1509521407193,
         "y": 4683.088887409608
@@ -398,14 +398,14 @@
           "TURtGnVdxllqoQu0tSWrc"
         ],
         "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
-        "generatedAt": 1777805720854
+        "generatedAt": 1777805813770
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "KXUUoYpKMlug1B4RON9-_",
-      "src": "pending",
+      "src": "assets/img-KXUUoYpKMlug1B4RON9-_.png",
       "position": {
         "x": -91.96015897039194,
         "y": 4629.755554076267
@@ -425,14 +425,14 @@
           "TURtGnVdxllqoQu0tSWrc"
         ],
         "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
-        "generatedAt": 1777805720854
+        "generatedAt": 1777805813771
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "FxaRYHUV7S_R3POwMHd_4",
-      "src": "pending",
+      "src": "assets/img-FxaRYHUV7S_R3POwMHd_4.png",
       "position": {
         "x": -1211.9601589703923,
         "y": 4609.7555540762605
@@ -452,10 +452,10 @@
           "TURtGnVdxllqoQu0tSWrc"
         ],
         "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
-        "generatedAt": 1777805720854
+        "generatedAt": 1777805813771
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ],
   "textCards": [
