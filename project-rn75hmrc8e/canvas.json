@@ -306,6 +306,18 @@
         "kind": "manual"
       },
       "createdAt": 1777790502043
+    },
+    {
+      "id": "QbC_OYlVhBfKBY4VZpIwR",
+      "x": 2905.9381443299067,
+      "y": 1586.7693298969104,
+      "width": 300,
+      "height": 200,
+      "text": "",
+      "source": {
+        "kind": "manual"
+      },
+      "createdAt": 1777790505477
     }
   ]
 }
