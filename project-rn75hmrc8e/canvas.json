@@ -345,8 +345,9 @@
         "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
         "generatedAt": 1777805478602
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false,
+      "uploadError": "[apimart] task failed"
     }
   ],
   "textCards": [
