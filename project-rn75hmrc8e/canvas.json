@@ -322,33 +322,6 @@
       "cancelable": false
     },
     {
-      "id": "KXUUoYpKMlug1B4RON9-_",
-      "src": "assets/img-KXUUoYpKMlug1B4RON9-_.png",
-      "position": {
-        "x": 4858.0398410296075,
-        "y": 2267.255554076267
-      },
-      "size": {
-        "w": 1024,
-        "h": 1024
-      },
-      "source": "generated",
-      "metadata": {
-        "prompt": "给这只小猫增加一个小狗朋友",
-        "api": "apimart",
-        "model": "gpt-image-2-official",
-        "ratio": "1:1",
-        "resolution": "1K",
-        "referenceImageIds": [
-          "TURtGnVdxllqoQu0tSWrc"
-        ],
-        "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
-        "generatedAt": 1777805813771
-      },
-      "isLoading": false,
-      "cancelable": false
-    },
-    {
       "id": "FxaRYHUV7S_R3POwMHd_4",
       "src": "assets/img-FxaRYHUV7S_R3POwMHd_4.png",
       "position": {
