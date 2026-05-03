@@ -379,6 +379,23 @@
       "videoQuality": "720p",
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "ddu9u9xct5irlwmOISP-P",
+      "x": 2523.1525455850947,
+      "y": 499.5446190354767,
+      "width": 640,
+      "height": 360,
+      "src": "pending",
+      "duration": 3,
+      "api": "apimart",
+      "model": "happyhorse-1.0",
+      "prompt": "一人在在看美术展览",
+      "ratio": "16:9",
+      "videoQuality": "1080P",
+      "isLoading": false,
+      "cancelable": false,
+      "uploadError": "[video/apimart/submit] code 200"
     }
   ]
 }
