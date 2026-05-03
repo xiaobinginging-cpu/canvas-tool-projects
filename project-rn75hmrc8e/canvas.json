@@ -378,8 +378,7 @@
       "ratio": "16:9",
       "videoQuality": "720p",
       "isLoading": false,
-      "cancelable": false,
-      "uploadError": "[video/apimart/submit] code 200"
+      "cancelable": false
     },
     {
       "id": "WFMZcnWlOcJmS_G6iV2ku",
@@ -395,8 +394,7 @@
       "ratio": "16:9",
       "videoQuality": "1080P",
       "isLoading": false,
-      "cancelable": false,
-      "uploadError": "[video/apimart/submit] code 200"
+      "cancelable": false
     }
   ]
 }
