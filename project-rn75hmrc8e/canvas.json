@@ -370,15 +370,16 @@
       "y": 162.76923076922995,
       "width": 640,
       "height": 360,
-      "src": "pending",
+      "src": "assets/video-NWtehVQ7UcqaVNr2beqmc.mp4",
       "duration": 6,
       "api": "apimart",
       "model": "grok-imagine-1.0-video-apimart",
       "prompt": "一个人在美术馆看展",
       "ratio": "16:9",
       "videoQuality": "720p",
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false,
+      "generatedAt": 1777810751346
     }
   ]
 }
