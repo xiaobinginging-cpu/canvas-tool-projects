@@ -424,7 +424,7 @@
       "y": 255.2727272727275,
       "width": 480,
       "height": 480,
-      "src": "pending",
+      "src": "assets/video-UyG4Y4pkiwNpLUl_dSHso.mp4",
       "duration": 3,
       "api": "apimart",
       "model": "kling-v3",
@@ -434,8 +434,9 @@
       "referenceImageIds": [
         "GnPfKl27uDCOh7u1j7nsW"
       ],
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false,
+      "generatedAt": 1777813525896
     }
   ]
 }
