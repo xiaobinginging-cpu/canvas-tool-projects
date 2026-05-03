@@ -348,6 +348,114 @@
       "isLoading": false,
       "cancelable": false,
       "uploadError": "[apimart] task failed"
+    },
+    {
+      "id": "2UR7RyfDpUOdTH4kOPr4E",
+      "src": "pending",
+      "position": {
+        "x": 175.817618807386,
+        "y": 3391.9777762984877
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "给这只小猫增加一个小狗朋友",
+        "api": "apimart",
+        "model": "gpt-image-2-official",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "TURtGnVdxllqoQu0tSWrc"
+        ],
+        "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
+        "generatedAt": 1777805720854
+      },
+      "isLoading": true,
+      "cancelable": true
+    },
+    {
+      "id": "Jbt-5utG0EPFP2rEt48fA",
+      "src": "pending",
+      "position": {
+        "x": 205.817618807386,
+        "y": 3421.9777762984877
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "给这只小猫增加一个小狗朋友",
+        "api": "apimart",
+        "model": "gpt-image-2-official",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "TURtGnVdxllqoQu0tSWrc"
+        ],
+        "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
+        "generatedAt": 1777805720854
+      },
+      "isLoading": true,
+      "cancelable": true
+    },
+    {
+      "id": "KXUUoYpKMlug1B4RON9-_",
+      "src": "pending",
+      "position": {
+        "x": 235.817618807386,
+        "y": 3451.9777762984877
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "给这只小猫增加一个小狗朋友",
+        "api": "apimart",
+        "model": "gpt-image-2-official",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "TURtGnVdxllqoQu0tSWrc"
+        ],
+        "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
+        "generatedAt": 1777805720854
+      },
+      "isLoading": true,
+      "cancelable": true
+    },
+    {
+      "id": "FxaRYHUV7S_R3POwMHd_4",
+      "src": "pending",
+      "position": {
+        "x": -1211.9601589703923,
+        "y": 4609.7555540762605
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "给这只小猫增加一个小狗朋友",
+        "api": "apimart",
+        "model": "gpt-image-2-official",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "TURtGnVdxllqoQu0tSWrc"
+        ],
+        "parentImageId": "DCEs6EU1t8rQg_PosvlXJ",
+        "generatedAt": 1777805720854
+      },
+      "isLoading": true,
+      "cancelable": true
     }
   ],
   "textCards": [
