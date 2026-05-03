@@ -363,23 +363,5 @@
       "createdAt": 1777792434163
     }
   ],
-  "videos": [
-    {
-      "id": "aOZG6FppazQ_TiRDGAQtf",
-      "x": 2997.5969900295363,
-      "y": 40.65573014658673,
-      "width": 640,
-      "height": 360,
-      "src": "pending",
-      "duration": 6,
-      "api": "apimart",
-      "model": "grok-imagine-1.0-video-apimart",
-      "prompt": "一个人在看美术展览",
-      "ratio": "16:9",
-      "videoQuality": "720p",
-      "isLoading": false,
-      "cancelable": false,
-      "uploadError": "[video/apimart/submit] code 200"
-    }
-  ]
+  "videos": []
 }
