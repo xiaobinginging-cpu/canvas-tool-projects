@@ -365,22 +365,6 @@
   ],
   "videos": [
     {
-      "id": "Y8Rw418PiYQf_pvd9RrvC",
-      "x": 1577.2260632845973,
-      "y": 287.0387880880295,
-      "width": 640,
-      "height": 360,
-      "src": "pending",
-      "duration": 6,
-      "api": "apimart",
-      "model": "grok-imagine-1.0-video-apimart",
-      "prompt": "一个人在美术馆看展览",
-      "ratio": "16:9",
-      "videoQuality": "720p",
-      "isLoading": false,
-      "cancelable": false
-    },
-    {
       "id": "WFMZcnWlOcJmS_G6iV2ku",
       "x": 2468.764524823058,
       "y": 301.6541727034138,
