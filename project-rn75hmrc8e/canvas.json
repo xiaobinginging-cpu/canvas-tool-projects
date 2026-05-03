@@ -274,5 +274,6 @@
       "isLoading": false,
       "cancelable": false
     }
-  ]
+  ],
+  "textCards": []
 }
