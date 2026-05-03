@@ -163,6 +163,29 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "TURtGnVdxllqoQu0tSWrc",
+      "src": "pending",
+      "position": {
+        "x": 1292.0526315789496,
+        "y": 2263.315789473687
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "一只小猫",
+        "api": "apimart",
+        "model": "gemini-3-pro-image-preview",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "generatedAt": 1777799732522
+      },
+      "isLoading": true,
+      "cancelable": true
     }
   ],
   "textCards": [
