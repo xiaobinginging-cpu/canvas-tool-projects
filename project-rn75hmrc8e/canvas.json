@@ -458,7 +458,7 @@
     },
     {
       "id": "IF6caY_AFdnWdAbgsbnbm",
-      "src": "pending",
+      "src": "assets/img-IF6caY_AFdnWdAbgsbnbm.jpg",
       "position": {
         "x": 1101.8618925831192,
         "y": 5802.452685422008
@@ -478,10 +478,10 @@
           "TURtGnVdxllqoQu0tSWrc"
         ],
         "parentImageId": "Jbt-5utG0EPFP2rEt48fA",
-        "generatedAt": 1777806734455
+        "generatedAt": 1777806775017
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ],
   "textCards": [
