@@ -377,7 +377,7 @@
       "prompt": "一个人在美术馆看展",
       "ratio": "16:9",
       "videoQuality": "720p",
-      "isLoading": true,
+      "isLoading": false,
       "cancelable": true
     }
   ]
