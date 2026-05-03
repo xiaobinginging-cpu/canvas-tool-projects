@@ -189,7 +189,7 @@
     },
     {
       "id": "JyMddFIrwSbXhQt7Dueit",
-      "src": "pending",
+      "src": "assets/img-JyMddFIrwSbXhQt7Dueit.jpg",
       "position": {
         "x": 11.85526315789454,
         "y": 2273.4144736842163
@@ -208,10 +208,10 @@
         "referenceImageIds": [
           "TURtGnVdxllqoQu0tSWrc"
         ],
-        "generatedAt": 1777799793703
+        "generatedAt": 1777799836305
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ],
   "textCards": [
