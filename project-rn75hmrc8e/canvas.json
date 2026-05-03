@@ -237,8 +237,9 @@
         "parentImageId": "JyMddFIrwSbXhQt7Dueit",
         "generatedAt": 1777799848669
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false,
+      "uploadError": "[apimart/download] https://upload.apimart.ai/f/image/9998222200126416-ee913d0f-18d0-4e31-964e-0afc9424ab23-image_task_01KQPJ2H1FJWW32F0ZWQE98K3J_0.jpg,https://upload.apimart.ai/f/image/9998222200104789-47d05342-69a8-4a36-9a04-879446025a57-image_task_01KQPJ2H1FJWW32F0ZWQE98K3J_1_0.jpg failed 400"
     },
     {
       "id": "fkl0I_YdZ5K5JEaPpuJ_s",
@@ -264,8 +265,9 @@
         "parentImageId": "JyMddFIrwSbXhQt7Dueit",
         "generatedAt": 1777799848670
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false,
+      "uploadError": "[apimart/download] https://upload.apimart.ai/f/image/9998222200126416-ee913d0f-18d0-4e31-964e-0afc9424ab23-image_task_01KQPJ2H1FJWW32F0ZWQE98K3J_0.jpg,https://upload.apimart.ai/f/image/9998222200104789-47d05342-69a8-4a36-9a04-879446025a57-image_task_01KQPJ2H1FJWW32F0ZWQE98K3J_1_0.jpg failed 400"
     }
   ],
   "textCards": [
