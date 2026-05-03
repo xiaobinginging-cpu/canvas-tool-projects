@@ -365,23 +365,6 @@
   ],
   "videos": [
     {
-      "id": "ddu9u9xct5irlwmOISP-P",
-      "x": 1481.7111041436524,
-      "y": 59.90497939583619,
-      "width": 640,
-      "height": 360,
-      "src": "pending",
-      "duration": 3,
-      "api": "apimart",
-      "model": "happyhorse-1.0",
-      "prompt": "一人在在看美术展览",
-      "ratio": "16:9",
-      "videoQuality": "1080P",
-      "isLoading": false,
-      "cancelable": false,
-      "uploadError": "[video/apimart/submit] code 200"
-    },
-    {
       "id": "aOZG6FppazQ_TiRDGAQtf",
       "x": 2997.5969900295363,
       "y": 40.65573014658673,
