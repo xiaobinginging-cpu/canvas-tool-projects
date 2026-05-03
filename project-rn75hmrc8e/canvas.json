@@ -397,6 +397,25 @@
       "isLoading": false,
       "cancelable": false,
       "generatedAt": 1777811092028
+    },
+    {
+      "id": "6KC2DLvFVxEaF75yMj0HZ",
+      "x": 2708.5797101449402,
+      "y": -456.88888888889585,
+      "width": 640,
+      "height": 360,
+      "src": "pending",
+      "duration": 6,
+      "api": "apimart",
+      "model": "grok-imagine-1.0-video-apimart",
+      "prompt": "手持运镜拍摄厨房画面",
+      "ratio": "16:9",
+      "videoQuality": "720p",
+      "referenceImageIds": [
+        "LfCZ263yuhWk4KT7fPMML"
+      ],
+      "isLoading": true,
+      "cancelable": true
     }
   ]
 }
