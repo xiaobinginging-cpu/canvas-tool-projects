@@ -168,8 +168,8 @@
       "id": "TURtGnVdxllqoQu0tSWrc",
       "src": "assets/img-TURtGnVdxllqoQu0tSWrc.jpg",
       "position": {
-        "x": 1292.0526315789496,
-        "y": 2263.315789473687
+        "x": -1165.8421052631613,
+        "y": 2252.789473684215
       },
       "size": {
         "w": 1024,
@@ -186,6 +186,32 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "JyMddFIrwSbXhQt7Dueit",
+      "src": "pending",
+      "position": {
+        "x": 1590.4736842105287,
+        "y": 1398.5789473684235
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "给这只小猫增加一个小狗朋友",
+        "api": "apimart",
+        "model": "gemini-3-pro-image-preview",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "referenceImageIds": [
+          "TURtGnVdxllqoQu0tSWrc"
+        ],
+        "generatedAt": 1777799793703
+      },
+      "isLoading": true,
+      "cancelable": true
     }
   ],
   "textCards": [
