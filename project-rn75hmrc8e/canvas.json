@@ -513,8 +513,7 @@
       "ratio": "16:9",
       "videoQuality": "720p",
       "isLoading": false,
-      "cancelable": false,
-      "uploadError": "[video/apimart/submit] code 200"
+      "cancelable": false
     }
   ]
 }
