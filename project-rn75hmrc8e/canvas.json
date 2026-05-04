@@ -320,6 +320,29 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "DZPdl5LVgONjaRVWKhVDE",
+      "src": "pending",
+      "position": {
+        "x": -5578.703703703711,
+        "y": 3094.1851851851898
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "一只卡通像素风小章鱼",
+        "api": "google",
+        "model": "gemini-3.1-flash-image-preview",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "generatedAt": 1777896379892
+      },
+      "isLoading": true,
+      "cancelable": true
     }
   ],
   "textCards": [
