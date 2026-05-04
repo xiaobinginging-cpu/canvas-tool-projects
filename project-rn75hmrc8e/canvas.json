@@ -539,7 +539,7 @@
       "y": 3986.999999999998,
       "width": 480,
       "height": 480,
-      "src": "pending",
+      "src": "assets/video-Z1VtP0LfTngCMvIjadZLE.mp4",
       "duration": 6,
       "api": "apimart",
       "model": "grok-imagine-1.0-video-apimart",
@@ -549,8 +549,9 @@
       "referenceImageIds": [
         "DZPdl5LVgONjaRVWKhVDE"
       ],
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false,
+      "generatedAt": 1777898004171
     }
   ]
 }
