@@ -323,7 +323,7 @@
     },
     {
       "id": "DZPdl5LVgONjaRVWKhVDE",
-      "src": "pending",
+      "src": "assets/img-DZPdl5LVgONjaRVWKhVDE.jpg",
       "position": {
         "x": -5578.703703703711,
         "y": 3094.1851851851898
@@ -339,10 +339,10 @@
         "model": "gemini-3.1-flash-image-preview",
         "ratio": "1:1",
         "resolution": "1K",
-        "generatedAt": 1777896379892
+        "generatedAt": 1777896395340
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ],
   "textCards": [
