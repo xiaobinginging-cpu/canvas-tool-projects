@@ -1,4 +1,18 @@
 {
   "images": [],
-  "videos": []
+  "videos": [],
+  "textCards": [
+    {
+      "id": "5nF7X9pztVgp2SZ6ILvdx",
+      "x": 409,
+      "y": 198.125,
+      "width": 400,
+      "height": 300,
+      "text": "",
+      "source": {
+        "kind": "manual"
+      },
+      "createdAt": 1777902101969
+    }
+  ]
 }
