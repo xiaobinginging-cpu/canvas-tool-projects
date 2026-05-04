@@ -532,6 +532,25 @@
       "isLoading": false,
       "cancelable": false,
       "generatedAt": 1777816160306
+    },
+    {
+      "id": "Z1VtP0LfTngCMvIjadZLE",
+      "x": 1731.9999999999986,
+      "y": 3986.999999999998,
+      "width": 480,
+      "height": 480,
+      "src": "pending",
+      "duration": 6,
+      "api": "apimart",
+      "model": "grok-imagine-1.0-video-apimart",
+      "prompt": "小章鱼动起来",
+      "ratio": "1:1",
+      "videoQuality": "480p",
+      "referenceImageIds": [
+        "DZPdl5LVgONjaRVWKhVDE"
+      ],
+      "isLoading": true,
+      "cancelable": true
     }
   ]
 }
