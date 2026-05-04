@@ -434,6 +434,18 @@
         "generatedAt": 1777898544883
       },
       "createdAt": 1777898544883
+    },
+    {
+      "id": "evUIMAdXbj9FUlN3HtSTQ",
+      "x": 202.79084967320512,
+      "y": 4014.4705882352982,
+      "width": 400,
+      "height": 300,
+      "text": "",
+      "source": {
+        "kind": "manual"
+      },
+      "createdAt": 1777902692464
     }
   ],
   "videos": [
