@@ -102,7 +102,7 @@
     },
     {
       "id": "Agx96HSE1iYeViyeHlkrg",
-      "src": "pending",
+      "src": "assets/img-Agx96HSE1iYeViyeHlkrg.jpg",
       "position": {
         "x": 1196.5780872834184,
         "y": -2488.8657588599544
@@ -122,10 +122,10 @@
           "aWx4DAzBuYQuwd0k5FB2n",
           "43SIM-72nzOtXoE_K_uba"
         ],
-        "generatedAt": 1777991155339
+        "generatedAt": 1777991170200
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ],
   "videos": [],
