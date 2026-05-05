@@ -96,9 +96,8 @@
         ],
         "generatedAt": 1777991075872
       },
-      "isLoading": false,
-      "cancelable": false,
-      "uploadError": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later."
+      "isLoading": true,
+      "cancelable": true
     },
     {
       "id": "Agx96HSE1iYeViyeHlkrg",
@@ -129,7 +128,7 @@
     },
     {
       "id": "rZ19pHTHcWeoyFx1nZ0q-",
-      "src": "pending",
+      "src": "assets/img-rZ19pHTHcWeoyFx1nZ0q-.jpg",
       "position": {
         "x": 2942.1557528610915,
         "y": -708.2999732941673
@@ -150,10 +149,10 @@
           "43SIM-72nzOtXoE_K_uba"
         ],
         "parentImageId": "Agx96HSE1iYeViyeHlkrg",
-        "generatedAt": 1777991200320
+        "generatedAt": 1777991216078
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ],
   "videos": [],
