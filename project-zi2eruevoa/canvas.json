@@ -199,6 +199,24 @@
         "uploadedAt": 1777991578360,
         "originalFilename": "图片7.png"
       },
+      "isLoading": false
+    },
+    {
+      "id": "J177EiwSqaQXOC1WSQ8tA",
+      "src": "assets/img-J177EiwSqaQXOC1WSQ8tA.png",
+      "position": {
+        "x": 3253.1666666666724,
+        "y": 692.8333333333335
+      },
+      "size": {
+        "w": 401,
+        "h": 600
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777991588211,
+        "originalFilename": "图片6.png"
+      },
       "isLoading": true
     }
   ],
