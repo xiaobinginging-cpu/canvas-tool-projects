@@ -1,24 +1,5 @@
 {
-  "images": [
-    {
-      "id": "3UdUCY43eR2dikOVvuWOX",
-      "src": "assets/img-3UdUCY43eR2dikOVvuWOX.png",
-      "position": {
-        "x": -136.4545454545457,
-        "y": -744.2110389610403
-      },
-      "size": {
-        "w": 600,
-        "h": 307
-      },
-      "source": "upload",
-      "metadata": {
-        "uploadedAt": 1777989650522,
-        "originalFilename": "图片1.png"
-      },
-      "isLoading": false
-    }
-  ],
+  "images": [],
   "videos": [],
   "textCards": [
     {
