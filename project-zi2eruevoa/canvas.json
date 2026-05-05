@@ -22,8 +22,8 @@
       "id": "eLa6tfvNEvvZJKcUJYjDU",
       "src": "assets/img-eLa6tfvNEvvZJKcUJYjDU.png",
       "position": {
-        "x": 1791.5239007067366,
-        "y": -6.884274619442863
+        "x": 2.0502164962062555,
+        "y": -543.726379882602
       },
       "size": {
         "w": 338,
@@ -34,7 +34,7 @@
         "uploadedAt": 1777990300974,
         "originalFilename": "图片4.png"
       },
-      "isLoading": true
+      "isLoading": false
     }
   ],
   "videos": [],
