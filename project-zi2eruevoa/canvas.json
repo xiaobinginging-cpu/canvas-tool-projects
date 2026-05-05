@@ -331,7 +331,7 @@
     },
     {
       "id": "DZeKVl75IdZFID56-6Z6Z",
-      "src": "pending",
+      "src": "assets/img-DZeKVl75IdZFID56-6Z6Z.jpg",
       "position": {
         "x": 3580.3944815149553,
         "y": 954.14981604597
@@ -352,14 +352,14 @@
           "J177EiwSqaQXOC1WSQ8tA"
         ],
         "parentImageId": "OVT8ZhhWxKAAqHMAsaAyx",
-        "generatedAt": 1777992290787
+        "generatedAt": 1777992304744
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     },
     {
       "id": "Jc0jljZT3LZFwKRajuV_-",
-      "src": "pending",
+      "src": "assets/img-Jc0jljZT3LZFwKRajuV_-.jpg",
       "position": {
         "x": 2380.9827168090646,
         "y": 925.326286634206
@@ -380,10 +380,10 @@
           "J177EiwSqaQXOC1WSQ8tA"
         ],
         "parentImageId": "OVT8ZhhWxKAAqHMAsaAyx",
-        "generatedAt": 1777992290787
+        "generatedAt": 1777992304745
       },
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false
     }
   ],
   "videos": [],
