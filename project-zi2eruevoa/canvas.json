@@ -71,6 +71,24 @@
         "originalFilename": "图片3.png"
       },
       "isLoading": false
+    },
+    {
+      "id": "rMdgZiaL4D5fUa2EZy24s",
+      "src": "assets/img-rMdgZiaL4D5fUa2EZy24s.png",
+      "position": {
+        "x": 1201.1348029623746,
+        "y": -193.68878589763938
+      },
+      "size": {
+        "w": 600,
+        "h": 335
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777990421871,
+        "originalFilename": "图片7.png"
+      },
+      "isLoading": true
     }
   ],
   "videos": [],
