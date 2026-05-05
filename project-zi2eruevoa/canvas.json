@@ -70,7 +70,7 @@
         "uploadedAt": 1777990353840,
         "originalFilename": "图片4.png"
       },
-      "isLoading": true
+      "isLoading": false
     }
   ],
   "videos": [],
