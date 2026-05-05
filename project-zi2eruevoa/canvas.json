@@ -386,7 +386,28 @@
       "cancelable": false
     }
   ],
-  "videos": [],
+  "videos": [
+    {
+      "id": "76KhkzpWsEHZGNGUQMUDP",
+      "x": 4778.276834456127,
+      "y": 1762.1498160459676,
+      "width": 360,
+      "height": 640,
+      "src": "pending",
+      "duration": 5,
+      "api": "apimart",
+      "model": "doubao-seedance-2.0",
+      "prompt": "基于此图帮我生成一段镜头幅度不大的手持镜头静止运镜的拍摄画面，整体空间画面逻辑正确，不改变造型，不改变图中的自然光氛围，树叶被风吹动，轻微颤动，人挥杆打球，展现力量与美。",
+      "ratio": "9:16",
+      "videoQuality": "480p",
+      "referenceImageIds": [
+        "DZeKVl75IdZFID56-6Z6Z"
+      ],
+      "isLoading": false,
+      "cancelable": false,
+      "uploadError": "[video/apimart/submit] Insufficient account balance. Please top up and try again."
+    }
+  ],
   "textCards": [
     {
       "id": "gOOM9YHZDuGx6fLvDnP-u",
