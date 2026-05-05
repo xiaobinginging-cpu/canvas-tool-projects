@@ -52,6 +52,24 @@
         "uploadedAt": 1777990340773,
         "originalFilename": "图片5.png"
       },
+      "isLoading": false
+    },
+    {
+      "id": "43SIM-72nzOtXoE_K_uba",
+      "src": "assets/img-43SIM-72nzOtXoE_K_uba.png",
+      "position": {
+        "x": 1851.5239007067366,
+        "y": 53.11572538055714
+      },
+      "size": {
+        "w": 338,
+        "h": 600
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777990353840,
+        "originalFilename": "图片4.png"
+      },
       "isLoading": true
     }
   ],
