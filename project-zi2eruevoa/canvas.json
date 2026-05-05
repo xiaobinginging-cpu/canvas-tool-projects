@@ -4,8 +4,8 @@
       "id": "9w8zUhJt8YpkbAknoFbSB",
       "src": "assets/img-9w8zUhJt8YpkbAknoFbSB.png",
       "position": {
-        "x": 1630.5239007067366,
-        "y": 121.11572538055714
+        "x": -874.7392571880048,
+        "y": -252.56848514575927
       },
       "size": {
         "w": 600,
@@ -16,7 +16,7 @@
         "uploadedAt": 1777990282338,
         "originalFilename": "图片2.png"
       },
-      "isLoading": true
+      "isLoading": false
     }
   ],
   "videos": [],
