@@ -88,14 +88,14 @@
         "uploadedAt": 1777990421871,
         "originalFilename": "图片7.png"
       },
-      "isLoading": true
+      "isLoading": false
     },
     {
       "id": "q_6KUkfGVW65XqsgSEspc",
       "src": "assets/img-q_6KUkfGVW65XqsgSEspc.png",
       "position": {
         "x": -33.650911323342825,
-        "y": 896.6683569595068
+        "y": 902.9183569595068
       },
       "size": {
         "w": 401,
