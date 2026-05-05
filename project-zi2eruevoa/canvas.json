@@ -58,6 +58,18 @@
         "kind": "manual"
       },
       "createdAt": 1777989664358
+    },
+    {
+      "id": "gOOM9YHZDuGx6fLvDnP-u",
+      "x": 1157.0019762845857,
+      "y": 717.6618083003953,
+      "width": 400,
+      "height": 300,
+      "text": "",
+      "source": {
+        "kind": "manual"
+      },
+      "createdAt": 1777989897877
     }
   ]
 }
