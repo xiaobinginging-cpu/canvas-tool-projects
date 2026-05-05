@@ -17,6 +17,24 @@
         "originalFilename": "图片2.png"
       },
       "isLoading": false
+    },
+    {
+      "id": "eLa6tfvNEvvZJKcUJYjDU",
+      "src": "assets/img-eLa6tfvNEvvZJKcUJYjDU.png",
+      "position": {
+        "x": 1791.5239007067366,
+        "y": -6.884274619442863
+      },
+      "size": {
+        "w": 338,
+        "h": 600
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777990300974,
+        "originalFilename": "图片4.png"
+      },
+      "isLoading": true
     }
   ],
   "videos": [],
