@@ -217,7 +217,7 @@
         "uploadedAt": 1777991588211,
         "originalFilename": "图片6.png"
       },
-      "isLoading": true
+      "isLoading": false
     }
   ],
   "videos": [],
