@@ -16,9 +16,22 @@
         "uploadedAt": 1777989650522,
         "originalFilename": "图片1.png"
       },
-      "isLoading": true
+      "isLoading": false
     }
   ],
   "videos": [],
-  "textCards": []
+  "textCards": [
+    {
+      "id": "ybius6vJsfxI7L8MH3M4e",
+      "x": 577.5454545454546,
+      "y": 145.68181818181796,
+      "width": 400,
+      "height": 300,
+      "text": "",
+      "source": {
+        "kind": "manual"
+      },
+      "createdAt": 1777989664358
+    }
+  ]
 }
