@@ -182,6 +182,24 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "F2_cANBXtYPI7XbV-XMmg",
+      "src": "assets/img-F2_cANBXtYPI7XbV-XMmg.png",
+      "position": {
+        "x": 3123.6666666666724,
+        "y": 795.3333333333335
+      },
+      "size": {
+        "w": 600,
+        "h": 335
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1777991578360,
+        "originalFilename": "图片7.png"
+      },
+      "isLoading": true
     }
   ],
   "videos": [],
