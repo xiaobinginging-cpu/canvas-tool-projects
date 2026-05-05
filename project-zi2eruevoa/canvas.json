@@ -459,8 +459,8 @@
     },
     {
       "id": "9VsqewPo_FYfSnz0pGtiN",
-      "x": 4634.394481514955,
-      "y": 954.14981604597,
+      "x": 4655.227814848288,
+      "y": 929.1498160459702,
       "width": 400,
       "height": 300,
       "text": "这是一张极具电影感与超现实气质的高尔夫主题影像。以下从四个维度进行拆解：\n\n### 1. 色调氛围\n画面笼罩在**低饱和度的暖黄绿调**之中，像是晨雾将光线过滤后的结果。整体偏向“旧照片”般的温润 sepia 与 moss green 混合，没有刺眼的亮色，呈现出静谧、神秘且高级的氛围。光线为柔和的**散射光/体积光**，雾气在林间形成自然的空气透视（Aerial Perspective），给人一种在清晨或黄昏时分、远离尘世的隐奢感。情绪上介于宁静与专注之间，带有梦幻般的电影叙事性。\n\n### 2. 材质\n- **自然材质**：占据画面主导。巨树的树皮粗糙、厚重，底部附着湿润的深绿色苔藓；草地是经过精细修剪的球道草皮，表面仿佛带有晨露的湿润光泽；雾气则构成了一种“空气材质”，柔化了所有轮廓。\n- **人造材质**：背景中的现代建筑采用了极为光滑的**白色曲面**（可能是混凝土或金属），与自然环境形成强烈对比，玻璃幕墙内透出温暖的灯光；球手的服装则是挺括的棉质或功能性面料，腰间悬挂的毛巾/杆套呈现出柔软的织物纹理。\n- **对比关系**：粗糙树皮 ↔ 光滑建筑；有机自然 ↔ 几何现代，构成了画面的核心材质张力。\n\n### 3. 远景近景\n- **近景**：画面左右两侧及边缘被几棵参天巨树的树干框住，形成天然的画框式构图（Frame within a frame）。树干细节清晰，苔藓与树皮的纹理触手可及，前景草地的条纹与阴影增强了空间纵深感。\n- **中景**：视觉焦点落在身着墨绿色套装的球手身上，其动态挥杆的姿态打破了环境的静态平衡。两个远处模糊的人影提着球包行走，既充当了比例尺，又强化了场景的叙事性。\n- **远景**：背景中那座极具未来感的流线型白色建筑在雾中若隐若现，内部暖光与外部冷雾形成对比，建筑后方的森林已完全隐入雾霭，只留下朦胧的树影。整幅画面的景深极浅，远景几乎被雾气完全虚化。\n\n### 4. 负面提示词（Negative Prompts）\n若将此图作为 AI 生图的参考，用于排除“不希望出现的元素”的提示词应包括：\n\n**色彩与光影类**：`oversaturated, vibrant colors, neon, bright sunny day, clear blue sky, harsh shadows, high contrast, flash photography, overexposed`\n\n**环境与场景类**：`urban, cityscape, desert, beach, ocean, snowy landscape, autumn leaves, dead trees, drought, cluttered background, crowded, golf cart, traffic, plastic`\n\n**风格与质感类**：`cartoon, anime, 3d render, CGI, sketch, painting, illustration, low quality, blurry, pixelated, jpeg artifacts, grainy, noise`\n\n**人物与构图类**：`close-up, portrait, isolated on white background, deformed hands, bad anatomy, extra limbs, distorted face, looking at camera, multiple golfers in foreground`\n\n**其他破坏氛围类**：`text, watermark, signature, logo, modern advertisement, commercial billboard, chaotic composition`",
