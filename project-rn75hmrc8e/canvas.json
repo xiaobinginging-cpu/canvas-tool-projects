@@ -590,6 +590,26 @@
       "isLoading": false,
       "cancelable": false,
       "generatedAt": 1777898004171
+    },
+    {
+      "id": "j7H5e6OFuph2jE7Q4mwJ1",
+      "x": 2067.1344449922008,
+      "y": 5254.102171264027,
+      "width": 480,
+      "height": 480,
+      "src": "assets/video-j7H5e6OFuph2jE7Q4mwJ1.mp4",
+      "duration": 3,
+      "api": "apimart",
+      "model": "kling-v3",
+      "prompt": "章鱼动起来",
+      "ratio": "1:1",
+      "videoQuality": "480p",
+      "referenceImageIds": [
+        "DZPdl5LVgONjaRVWKhVDE"
+      ],
+      "isLoading": false,
+      "cancelable": false,
+      "generatedAt": 1778131289898
     }
   ]
 }
