@@ -610,6 +610,26 @@
       "isLoading": false,
       "cancelable": false,
       "generatedAt": 1778131289898
+    },
+    {
+      "id": "-uwDGv6gCqe5ZoMj9yOjl",
+      "x": 2627.0616936694573,
+      "y": 5241.758827641076,
+      "width": 480,
+      "height": 480,
+      "src": "pending",
+      "duration": 4,
+      "api": "apimart",
+      "model": "doubao-seedance-2.0",
+      "prompt": "章鱼动起来",
+      "ratio": "1:1",
+      "videoQuality": "480p",
+      "referenceImageIds": [
+        "DZPdl5LVgONjaRVWKhVDE"
+      ],
+      "parentVideoId": "j7H5e6OFuph2jE7Q4mwJ1",
+      "isLoading": true,
+      "cancelable": true
     }
   ]
 }
