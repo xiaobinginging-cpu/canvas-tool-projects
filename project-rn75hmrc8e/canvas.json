@@ -617,7 +617,7 @@
       "y": 3158.4254943077267,
       "width": 480,
       "height": 480,
-      "src": "pending",
+      "src": "assets/video--uwDGv6gCqe5ZoMj9yOjl.mp4",
       "duration": 4,
       "api": "apimart",
       "model": "doubao-seedance-2.0",
@@ -628,8 +628,9 @@
         "DZPdl5LVgONjaRVWKhVDE"
       ],
       "parentVideoId": "j7H5e6OFuph2jE7Q4mwJ1",
-      "isLoading": true,
-      "cancelable": true
+      "isLoading": false,
+      "cancelable": false,
+      "generatedAt": 1778131754750
     }
   ]
 }
