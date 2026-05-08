@@ -475,6 +475,18 @@
         "generatedAt": 1777992582619
       },
       "createdAt": 1777992582619
+    },
+    {
+      "id": "73COUJWbWbXGipJcZF-EG",
+      "x": 3963.4444444444543,
+      "y": 1402.777777777782,
+      "width": 400,
+      "height": 300,
+      "text": "",
+      "source": {
+        "kind": "manual"
+      },
+      "createdAt": 1778245713040
     }
   ]
 }
