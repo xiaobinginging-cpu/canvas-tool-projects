@@ -76,8 +76,8 @@
       "id": "Agx96HSE1iYeViyeHlkrg",
       "src": "assets/img-Agx96HSE1iYeViyeHlkrg.jpg",
       "position": {
-        "x": 5518.378742768314,
-        "y": -1419.8000876890185
+        "x": 4962.823187212755,
+        "y": -2675.355643244573
       },
       "size": {
         "w": 1024,
@@ -103,8 +103,8 @@
       "id": "c0wEdFCkOPgCwP8_MfeB9",
       "src": "assets/img-c0wEdFCkOPgCwP8_MfeB9.jpg",
       "position": {
-        "x": 4192.894822220813,
-        "y": -2555.904516260778
+        "x": 3612.894822220844,
+        "y": -4369.23784959411
       },
       "size": {
         "w": 1024,
@@ -131,8 +131,8 @@
       "id": "UyFtg8t3WCVamg-gUUn7n",
       "src": "assets/img-UyFtg8t3WCVamg-gUUn7n.jpg",
       "position": {
-        "x": 984.6534578504605,
-        "y": -4170.134575486598
+        "x": 364.6534578504537,
+        "y": -4756.80124215326
       },
       "size": {
         "w": 1024,
@@ -159,8 +159,8 @@
       "id": "HZguFjADsYqX1vC3_2SXU",
       "src": "assets/img-HZguFjADsYqX1vC3_2SXU.jpg",
       "position": {
-        "x": 1056.4078438153704,
-        "y": -915.924049170804
+        "x": 303.0745104820348,
+        "y": -2809.2573825041327
       },
       "size": {
         "w": 1024,
@@ -250,8 +250,8 @@
       "id": "OVT8ZhhWxKAAqHMAsaAyx",
       "src": "assets/img-OVT8ZhhWxKAAqHMAsaAyx.jpg",
       "position": {
-        "x": 1165.6268121283526,
-        "y": 775.7127600641611
+        "x": 1429.1188756204167,
+        "y": 1063.8079981594005
       },
       "size": {
         "w": 1024,
@@ -361,8 +361,8 @@
       "id": "Jc0jljZT3LZFwKRajuV_-",
       "src": "assets/img-Jc0jljZT3LZFwKRajuV_-.jpg",
       "position": {
-        "x": 2375.427161253509,
-        "y": 786.4373977453145
+        "x": 1036.5382723646171,
+        "y": -1108.0070466991274
       },
       "size": {
         "w": 1024,
@@ -435,10 +435,10 @@
     },
     {
       "id": "C5Sqc6CiZq-ZscFjZF26R",
-      "x": 553.2559964609692,
-      "y": 330.3480057178191,
-      "width": 418,
-      "height": 453,
+      "x": 553.2560150835853,
+      "y": 330.3480106391565,
+      "width": 400,
+      "height": 300,
       "text": "<div style=\"text-align: center;\"><span style=\"background-color: transparent; letter-spacing: 0.18px; color: rgb(220, 38, 38); font-weight: bold;\">将图一中的建筑放置在图二远处，建筑具有无缝反光银色不锈钢金属板建筑立面和玻璃幕墙，建筑和地面完美地融合在一起，建筑完美融入环境。建筑在很远的地方，占画面比例很小，超级写实，高级的建筑渲染图，高分辨率，高度详细，清晰对焦，8k resolution，masterpiece，intricate details，photorealistic，detailed texture</span></div>",
       "source": {
         "kind": "manual"
