@@ -453,6 +453,18 @@
         "generatedAt": 1778132730632
       },
       "createdAt": 1778132730632
+    },
+    {
+      "id": "tAp5n_S37jc8qUoVPMyTh",
+      "x": 3410.790951916013,
+      "y": 417.1759020474216,
+      "width": 400,
+      "height": 300,
+      "text": "",
+      "source": {
+        "kind": "manual"
+      },
+      "createdAt": 1778245331852
     }
   ],
   "videos": [
