@@ -487,6 +487,18 @@
         "kind": "manual"
       },
       "createdAt": 1778245713040
+    },
+    {
+      "id": "fK9rCBKMfM9om3rHI8GFN",
+      "x": 3258.23311044002,
+      "y": 1669.0582003405398,
+      "width": 400,
+      "height": 300,
+      "text": "",
+      "source": {
+        "kind": "manual"
+      },
+      "createdAt": 1778245905084
     }
   ]
 }
