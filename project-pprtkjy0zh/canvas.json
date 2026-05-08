@@ -1,5 +1,24 @@
 {
-  "images": [],
+  "images": [
+    {
+      "id": "nkEdrP6DRnJpOwW5H5lxE",
+      "src": "assets/img-nkEdrP6DRnJpOwW5H5lxE.webp",
+      "position": {
+        "x": 442,
+        "y": 151.375
+      },
+      "size": {
+        "w": 400,
+        "h": 400
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1778218625217,
+        "originalFilename": "Chinese-Factory-Custom-Wood-Grain-Tile-Floor-with-Click.webp"
+      },
+      "isLoading": true
+    }
+  ],
   "videos": [],
   "textCards": [
     {
