@@ -130,7 +130,6 @@
           "zpxYTZDTZlhIrI58Qai14",
           "LfCZ263yuhWk4KT7fPMML"
         ],
-        "parentImageId": "jZ7RDAEt5b7vwDctGv00N",
         "generatedAt": 1777736613958
       },
       "isLoading": false,
@@ -158,7 +157,6 @@
           "zpxYTZDTZlhIrI58Qai14",
           "LfCZ263yuhWk4KT7fPMML"
         ],
-        "parentImageId": "jZ7RDAEt5b7vwDctGv00N",
         "generatedAt": 1777736613958
       },
       "isLoading": false,
@@ -234,7 +232,6 @@
         "referenceImageIds": [
           "TURtGnVdxllqoQu0tSWrc"
         ],
-        "parentImageId": "JyMddFIrwSbXhQt7Dueit",
         "generatedAt": 1777799966435
       },
       "isLoading": false,
@@ -261,7 +258,6 @@
         "referenceImageIds": [
           "TURtGnVdxllqoQu0tSWrc"
         ],
-        "parentImageId": "JyMddFIrwSbXhQt7Dueit",
         "generatedAt": 1777799970914
       },
       "isLoading": false,
@@ -288,7 +284,6 @@
         "referenceImageIds": [
           "TURtGnVdxllqoQu0tSWrc"
         ],
-        "parentImageId": "JyMddFIrwSbXhQt7Dueit",
         "generatedAt": 1777805347471
       },
       "isLoading": false,
@@ -298,8 +293,8 @@
       "id": "DCEs6EU1t8rQg_PosvlXJ",
       "src": "assets/img-DCEs6EU1t8rQg_PosvlXJ.png",
       "position": {
-        "x": -3279.196035990145,
-        "y": 6777.023045581876
+        "x": -4836.338893133013,
+        "y": 5548.451617010445
       },
       "size": {
         "w": 1024,
@@ -315,7 +310,6 @@
         "referenceImageIds": [
           "TURtGnVdxllqoQu0tSWrc"
         ],
-        "parentImageId": "GnPfKl27uDCOh7u1j7nsW",
         "generatedAt": 1777805412330
       },
       "isLoading": false,
