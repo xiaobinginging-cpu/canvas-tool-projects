@@ -415,7 +415,8 @@
         "instruction": "描述一下这张图片",
         "generatedAt": 1777898544883
       },
-      "createdAt": 1777898544883
+      "createdAt": 1777898544883,
+      "baseFontSizePx": 18
     },
     {
       "id": "Iy6GRorD4SD0ZtWlLK_T3",
