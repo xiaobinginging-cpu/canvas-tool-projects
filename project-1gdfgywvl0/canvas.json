@@ -4,8 +4,8 @@
       "id": "cIvtfY5E6yq0A6BULIgBL",
       "src": "assets/img-cIvtfY5E6yq0A6BULIgBL.png",
       "position": {
-        "x": 206,
-        "y": 160.875
+        "x": 433.6923076923077,
+        "y": 57.798076923076856
       },
       "size": {
         "w": 400,
@@ -34,7 +34,7 @@
         "uploadedAt": 1778680165447,
         "originalFilename": "khaki-hat.png"
       },
-      "isLoading": true
+      "isLoading": false
     }
   ],
   "videos": [],
