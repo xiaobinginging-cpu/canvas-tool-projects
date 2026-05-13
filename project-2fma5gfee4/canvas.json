@@ -16,6 +16,24 @@
         "uploadedAt": 1778679242403,
         "originalFilename": "pillow.png"
       },
+      "isLoading": false
+    },
+    {
+      "id": "NlhwfT5cyTYB5Qysd3BGb",
+      "src": "assets/img-NlhwfT5cyTYB5Qysd3BGb.png",
+      "position": {
+        "x": 310.28260869565196,
+        "y": 193.9945652173907
+      },
+      "size": {
+        "w": 400,
+        "h": 400
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1778679396869,
+        "originalFilename": "clawd-on-desk.png"
+      },
       "isLoading": true
     }
   ],
