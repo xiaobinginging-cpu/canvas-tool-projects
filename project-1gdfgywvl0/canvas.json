@@ -16,6 +16,24 @@
         "uploadedAt": 1778680072490,
         "originalFilename": "stackchan.png"
       },
+      "isLoading": false
+    },
+    {
+      "id": "L38WZMpOGmDzGNpp1L0zi",
+      "src": "assets/img-L38WZMpOGmDzGNpp1L0zi.png",
+      "position": {
+        "x": -29,
+        "y": 116
+      },
+      "size": {
+        "w": 400,
+        "h": 523
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1778680165447,
+        "originalFilename": "khaki-hat.png"
+      },
       "isLoading": true
     }
   ],
