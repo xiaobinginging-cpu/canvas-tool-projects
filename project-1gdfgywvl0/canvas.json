@@ -1,4 +1,24 @@
 {
-  "images": [],
-  "videos": []
+  "images": [
+    {
+      "id": "cIvtfY5E6yq0A6BULIgBL",
+      "src": "assets/img-cIvtfY5E6yq0A6BULIgBL.png",
+      "position": {
+        "x": 206,
+        "y": 160.875
+      },
+      "size": {
+        "w": 400,
+        "h": 404
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1778680072490,
+        "originalFilename": "stackchan.png"
+      },
+      "isLoading": true
+    }
+  ],
+  "videos": [],
+  "textCards": []
 }
