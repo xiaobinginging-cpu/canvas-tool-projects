@@ -1,4 +1,24 @@
 {
-  "images": [],
-  "videos": []
+  "images": [
+    {
+      "id": "loTxYtIrznYP33mNGASt7",
+      "src": "assets/img-loTxYtIrznYP33mNGASt7.png",
+      "position": {
+        "x": 206,
+        "y": 205.875
+      },
+      "size": {
+        "w": 400,
+        "h": 314
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1778679242403,
+        "originalFilename": "pillow.png"
+      },
+      "isLoading": true
+    }
+  ],
+  "videos": [],
+  "textCards": []
 }
