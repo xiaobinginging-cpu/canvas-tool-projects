@@ -1,0 +1,171 @@
+{
+  "images": [
+    {
+      "id": "krTQwCxG8mfU8uPTqsDCb",
+      "src": "assets/img-krTQwCxG8mfU8uPTqsDCb.jpg",
+      "position": {
+        "x": 340.3076923076925,
+        "y": -177.98076923076928
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "Claude code拟人化",
+        "api": "google",
+        "model": "gemini-3.1-flash-image-preview",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "parents": [],
+        "generatedAt": 1778763967907
+      },
+      "isLoading": false,
+      "cancelable": false
+    },
+    {
+      "id": "oPMc0pHx7l89620GZCp6_",
+      "src": "assets/img-oPMc0pHx7l89620GZCp6_.jpg",
+      "position": {
+        "x": 1244.869674185465,
+        "y": -1420.9129072681721
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "一只小猫",
+        "api": "google",
+        "model": "gemini-3.1-flash-image-preview",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "parents": [],
+        "generatedAt": 1778765606858
+      },
+      "isLoading": false,
+      "cancelable": false
+    },
+    {
+      "id": "D6mt3-g-5p17s1KKMNZxS",
+      "src": "assets/img-D6mt3-g-5p17s1KKMNZxS.png",
+      "position": {
+        "x": 2391.714111353047,
+        "y": -1416.6456010288764
+      },
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "一只小猫",
+        "api": "apimart",
+        "model": "gemini-3.1-flash-image-preview-official",
+        "ratio": "1:1",
+        "resolution": "1K",
+        "parents": [],
+        "generatedAt": 1778765632080
+      },
+      "isLoading": false,
+      "cancelable": false
+    }
+  ],
+  "videos": [
+    {
+      "id": "KH07Xogt9IJTi4DxmeNzK",
+      "x": 1467.9304787827973,
+      "y": -160.84940528807982,
+      "width": 480,
+      "height": 480,
+      "src": "assets/video-KH07Xogt9IJTi4DxmeNzK.mp4",
+      "duration": 6,
+      "api": "apimart",
+      "model": "grok-imagine-1.0-video-apimart",
+      "prompt": "人在敲键盘，代码生成中",
+      "ratio": "1:1",
+      "videoQuality": "480p",
+      "referenceImageIds": [
+        "krTQwCxG8mfU8uPTqsDCb"
+      ],
+      "isLoading": false,
+      "cancelable": false,
+      "generatedAt": 1778764060786
+    },
+    {
+      "id": "gEqMsusKIDhOHL7Z1ChGJ",
+      "x": 3568.982894988771,
+      "y": -1308.494199507012,
+      "width": 640,
+      "height": 360,
+      "src": "assets/video-gEqMsusKIDhOHL7Z1ChGJ.mp4",
+      "duration": 6,
+      "api": "apimart",
+      "model": "grok-imagine-1.0-video-apimart",
+      "prompt": "小猫蹦蹦跳跳",
+      "ratio": "16:9",
+      "videoQuality": "720p",
+      "referenceImageIds": [
+        "D6mt3-g-5p17s1KKMNZxS"
+      ],
+      "isLoading": false,
+      "cancelable": false,
+      "generatedAt": 1778765726670
+    }
+  ],
+  "textCards": [
+    {
+      "id": "TqMH0rPOG32e0h8vVE57m",
+      "x": -158.43137254901993,
+      "y": 476.8627450980392,
+      "width": 400,
+      "height": 300,
+      "text": "你好！我是 Kimi，由月之暗面科技有限公司（Moonshot AI）开发的人工智能助手。\n\n我可以帮你解答问题、进行对话、协助写作、翻译、编程、分析文件，或者只是聊聊天。有什么我可以帮你的吗？",
+      "source": {
+        "kind": "prompt-gen",
+        "sourceImageIds": [],
+        "api": "kimi",
+        "model": "kimi-k2.6",
+        "instruction": "你好，你是谁",
+        "generatedAt": 1778763798641
+      },
+      "createdAt": 1778763798641
+    },
+    {
+      "id": "d-JxpY-2Cu3iHnhUd-bBT",
+      "x": -153.84615384615398,
+      "y": 133.84615384615392,
+      "width": 400,
+      "height": 300,
+      "text": "你好！很高兴见到你，请问有什么我可以帮你的吗？",
+      "source": {
+        "kind": "prompt-gen",
+        "sourceImageIds": [],
+        "api": "google",
+        "model": "gemini-3.1-flash-lite-preview",
+        "instruction": "你好",
+        "generatedAt": 1778763897261
+      },
+      "createdAt": 1778763897261
+    },
+    {
+      "id": "pdA5VkwZBcNlvx33FG6FT",
+      "x": -152.72727272727292,
+      "y": -216.36363636363666,
+      "width": 400,
+      "height": 300,
+      "text": "你好！很高兴见到你。有什么我可以帮你的吗？",
+      "source": {
+        "kind": "prompt-gen",
+        "sourceImageIds": [],
+        "api": "kimi",
+        "model": "kimi-k2.6",
+        "instruction": "你好",
+        "generatedAt": 1778764159105
+      },
+      "createdAt": 1778764159105
+    }
+  ]
+}
