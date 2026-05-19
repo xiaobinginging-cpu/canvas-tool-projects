@@ -4,8 +4,8 @@
       "id": "UfkF_gYXlmvwG4RRVN4fN",
       "src": "assets/img-UfkF_gYXlmvwG4RRVN4fN.jpg",
       "position": {
-        "x": 852.9811448628731,
-        "y": 18.791558191992145
+        "x": 614.0922559739838,
+        "y": -364.5417751413403
       },
       "size": {
         "w": 600,
@@ -22,8 +22,8 @@
       "id": "-dVEdYoFadhQ9dOLEBsaV",
       "src": "assets/img--dVEdYoFadhQ9dOLEBsaV.jpg",
       "position": {
-        "x": 1486.2069513144875,
-        "y": 271.7593001274761
+        "x": 258.4291735367103,
+        "y": 227.3148556830293
       },
       "size": {
         "w": 600,
@@ -34,9 +34,61 @@
         "uploadedAt": 1779161943686,
         "originalFilename": "微信图片_20260416105747_4661_241.jpg"
       },
-      "isLoading": true
+      "isLoading": false
+    },
+    {
+      "id": "xJdN-VeIo3CPknuirJNH7",
+      "src": "assets/img-xJdN-VeIo3CPknuirJNH7.jpg",
+      "position": {
+        "x": 2039.779975293623,
+        "y": -343.78461123508396
+      },
+      "size": {
+        "w": 2048,
+        "h": 2048
+      },
+      "source": "generated",
+      "metadata": {
+        "prompt": "图1为小型服务驿站，以珠海郊野公园林中沿途景色为背景（注意树种），生成驿站建筑效果图，建筑构图结构保持不变，屋檐下有休憩的人，沿途经过的人，骑行的人，删除背景里的房子，道路参考图2；效果图风格参考图2；高分辨率，高度详细，清晰对焦，8K，16：9",
+        "api": "google",
+        "model": "gemini-3-pro-image-preview",
+        "ratio": "1:1",
+        "resolution": "2K",
+        "referenceImageIds": [
+          "-dVEdYoFadhQ9dOLEBsaV",
+          "UfkF_gYXlmvwG4RRVN4fN"
+        ],
+        "parents": [
+          "-dVEdYoFadhQ9dOLEBsaV",
+          "UfkF_gYXlmvwG4RRVN4fN"
+        ],
+        "generatedAt": 1779162159555
+      },
+      "isLoading": false,
+      "cancelable": false
     }
   ],
   "videos": [],
-  "textCards": []
+  "textCards": [
+    {
+      "id": "1_WzCwbTR0qODU9OY7W3T",
+      "x": 1249.7374465712303,
+      "y": -353.4306840661498,
+      "width": 753,
+      "height": 900,
+      "text": "这张图片展示了一幅宁静、自然且充满现代建筑美感的森林场景。以下是对画面的详细描述：\n\n**1. 建筑风格：**\n图中展现了三座设计风格统一的现代小木屋。这些房屋采用了极简主义设计，带有明显的斯堪的纳维亚风格。建筑外观以木质板材为主，配以简洁的坡屋顶（看起来像是金属材质），巨大的烟囱为简约的线条增添了几分厚重感。建筑架空在斜坡上，显得轻盈且不破坏自然地貌。\n\n**2. 环境氛围：**\n场景被一片茂密、高耸的松树林所环绕，光线在树叶间过滤，洒下斑驳的影子。背景的天空明亮而清澈，暗示着这是一个清晨或午后的晴朗时刻。整体色调柔和、自然，给人一种远离城市喧嚣、回归大自然的静谧感。\n\n**3. 人物活动：**\n画面的前景中，一名身穿深色夹克、背着背包的男子正牵着一只斑点狗走在碎石小径上。在远处的木屋附近，还有其他行人，这种人物的加入为画面增加了生活气息和叙事感，仿佛是一处度假胜地或山林社区的日常。\n\n**4. 视觉构图：**\n这是一张典型的建筑渲染图（Architectural Visualization）。画面运用了远近对比的构图法，前景的木屋和人物占据了侧翼，引导视线沿着碎石路径向后延伸，自然地将观者的目光引向远处的树林和另外两座小木屋。\n\n**整体观感：**\n这张图成功营造了一种“人与自然和谐共处”的理想化生活场景，体现了现代建筑如何融入森林环境，既保留了舒适的居住条件，又不失野趣。它非常适合作为建筑设计展示、度假村宣传或旅行相关的视觉素材。",
+      "source": {
+        "kind": "prompt-gen",
+        "sourceImageIds": [
+          "UfkF_gYXlmvwG4RRVN4fN"
+        ],
+        "api": "google",
+        "model": "gemini-3.1-flash-lite-preview",
+        "instruction": "描述一下这张图",
+        "generatedAt": 1779162023093
+      },
+      "createdAt": 1779162023093,
+      "baseFontSizePx": 20
+    }
+  ]
 }
