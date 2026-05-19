@@ -1,0 +1,42 @@
+{
+  "images": [
+    {
+      "id": "UfkF_gYXlmvwG4RRVN4fN",
+      "src": "assets/img-UfkF_gYXlmvwG4RRVN4fN.jpg",
+      "position": {
+        "x": 852.9811448628731,
+        "y": 18.791558191992145
+      },
+      "size": {
+        "w": 600,
+        "h": 600
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1779161939955,
+        "originalFilename": "微信图片_20260416105750_4662_241.jpg"
+      },
+      "isLoading": false
+    },
+    {
+      "id": "-dVEdYoFadhQ9dOLEBsaV",
+      "src": "assets/img--dVEdYoFadhQ9dOLEBsaV.jpg",
+      "position": {
+        "x": 1486.2069513144875,
+        "y": 271.7593001274761
+      },
+      "size": {
+        "w": 600,
+        "h": 296
+      },
+      "source": "upload",
+      "metadata": {
+        "uploadedAt": 1779161943686,
+        "originalFilename": "微信图片_20260416105747_4661_241.jpg"
+      },
+      "isLoading": true
+    }
+  ],
+  "videos": [],
+  "textCards": []
+}
