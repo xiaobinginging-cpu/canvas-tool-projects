@@ -68,21 +68,21 @@
       "cancelable": false
     },
     {
-      "id": "ayThP_63cAEbteHeGG3Tu",
-      "src": "assets/img-ayThP_63cAEbteHeGG3Tu.jpg",
+      "id": "f9FsdopOd4Sbsm9IoYVF6",
+      "src": "assets/img-f9FsdopOd4Sbsm9IoYVF6.jpg",
       "position": {
         "x": 130,
         "y": 130
       },
       "size": {
-        "w": 514,
-        "h": 600
+        "w": 600,
+        "h": 575
       },
       "source": "reference",
       "metadata": {
-        "uploadedAt": 1780502678180,
-        "originalFilename": "12fdabd652a07399d2a590e4d1e99b8a.jpg",
-        "libraryMaterialId": "lib-HP_xpAp3pJS74lDTBk71g"
+        "uploadedAt": 1780503155007,
+        "originalFilename": "025fb70475a7e2c9f2fcc62bac04f607.jpg",
+        "libraryMaterialId": "lib-7IvxHgw78-epv4TzW3iNB"
       }
     }
   ],
