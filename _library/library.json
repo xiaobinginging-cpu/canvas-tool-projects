@@ -1,6 +1,17 @@
 {
   "materials": [
     {
+      "id": "lib-rtTDXD-Z-phbA4miPr93q",
+      "src": "_library/assets/lib-rtTDXD-Z-phbA4miPr93q.jpg",
+      "kind": "reference",
+      "name": "IMG_3222.jpg",
+      "thumb": {
+        "w": 874,
+        "h": 1777
+      },
+      "addedAt": 1780502622214
+    },
+    {
       "id": "lib-7IvxHgw78-epv4TzW3iNB",
       "src": "_library/assets/lib-7IvxHgw78-epv4TzW3iNB.jpg",
       "kind": "reference",
