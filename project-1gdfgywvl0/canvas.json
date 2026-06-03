@@ -35,25 +35,6 @@
         "originalFilename": "khaki-hat.png"
       },
       "isLoading": false
-    },
-    {
-      "id": "kO11hs0Vu0ZnDKvOIQTrV",
-      "src": "assets/img-kO11hs0Vu0ZnDKvOIQTrV.jpg",
-      "position": {
-        "x": 1332.0000000000016,
-        "y": 173.75000000000017
-      },
-      "size": {
-        "w": 600,
-        "h": 575
-      },
-      "source": "reference",
-      "metadata": {
-        "uploadedAt": 1780501821263,
-        "originalFilename": "025fb70475a7e2c9f2fcc62bac04f607.jpg",
-        "libraryMaterialId": "lib-7IvxHgw78-epv4TzW3iNB"
-      },
-      "isLoading": true
     }
   ],
   "videos": [],
