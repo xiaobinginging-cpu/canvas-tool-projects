@@ -1,0 +1,21 @@
+{
+  "materials": [
+    {
+      "id": "lib-HP_xpAp3pJS74lDTBk71g",
+      "src": "_library/assets/lib-HP_xpAp3pJS74lDTBk71g.jpg",
+      "kind": "raw",
+      "name": "12fdabd652a07399d2a590e4d1e99b8a.jpg",
+      "tags": [
+        "混凝土"
+      ],
+      "thumb": {
+        "w": 514,
+        "h": 600
+      },
+      "addedAt": 1780500557739,
+      "sourceImageId": "LfCZ263yuhWk4KT7fPMML"
+    }
+  ],
+  "presets": [],
+  "promptTemplates": []
+}
