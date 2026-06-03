@@ -389,25 +389,6 @@
       },
       "isLoading": false,
       "cancelable": false
-    },
-    {
-      "id": "VjyIpY4fECQ39Xys2Z0DC",
-      "src": "assets/img-VjyIpY4fECQ39Xys2Z0DC.jpg",
-      "position": {
-        "x": 275.1764705882345,
-        "y": 85.95588235294053
-      },
-      "size": {
-        "w": 514,
-        "h": 600
-      },
-      "source": "reference",
-      "metadata": {
-        "uploadedAt": 1780500605454,
-        "originalFilename": "12fdabd652a07399d2a590e4d1e99b8a.jpg",
-        "libraryMaterialId": "lib-HP_xpAp3pJS74lDTBk71g"
-      },
-      "isLoading": false
     }
   ],
   "videos": [
@@ -430,25 +411,6 @@
       "isLoading": false,
       "cancelable": false,
       "generatedAt": 1777992474655
-    },
-    {
-      "id": "xG7pBpqo7Yw4Y9Or6nSgt",
-      "x": 1646.6025592055055,
-      "y": 5963.873245320854,
-      "width": 360,
-      "height": 640,
-      "src": "pending",
-      "duration": 6,
-      "api": "apimart",
-      "model": "grok-imagine-1.0-video-apimart",
-      "prompt": "基于此图帮我生成一段镜头幅度不大的手持镜头静止运镜的拍摄画面，整体空间画面逻辑正确，不改变造型，不改变图中的自然光氛围，树叶被风吹动，轻微颤动，人挥杆打球，展现力量与美。",
-      "ratio": "9:16",
-      "videoQuality": "480p",
-      "referenceImageIds": [
-        "DZeKVl75IdZFID56-6Z6Z"
-      ],
-      "isLoading": true,
-      "cancelable": true
     }
   ],
   "textCards": [
