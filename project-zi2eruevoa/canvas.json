@@ -389,6 +389,25 @@
       },
       "isLoading": false,
       "cancelable": false
+    },
+    {
+      "id": "VjyIpY4fECQ39Xys2Z0DC",
+      "src": "assets/img-VjyIpY4fECQ39Xys2Z0DC.jpg",
+      "position": {
+        "x": 1798.7058823529433,
+        "y": 1156.5441176470604
+      },
+      "size": {
+        "w": 514,
+        "h": 600
+      },
+      "source": "reference",
+      "metadata": {
+        "uploadedAt": 1780500605454,
+        "originalFilename": "12fdabd652a07399d2a590e4d1e99b8a.jpg",
+        "libraryMaterialId": "lib-HP_xpAp3pJS74lDTBk71g"
+      },
+      "isLoading": true
     }
   ],
   "videos": [
