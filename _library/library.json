@@ -1,6 +1,21 @@
 {
   "materials": [
     {
+      "id": "lib-7IvxHgw78-epv4TzW3iNB",
+      "src": "_library/assets/lib-7IvxHgw78-epv4TzW3iNB.jpg",
+      "kind": "reference",
+      "name": "025fb70475a7e2c9f2fcc62bac04f607.jpg",
+      "tags": [
+        "111"
+      ],
+      "thumb": {
+        "w": 600,
+        "h": 575
+      },
+      "addedAt": 1780501776689,
+      "sourceImageId": "zpxYTZDTZlhIrI58Qai14"
+    },
+    {
       "id": "lib-nr1ts8De3XVMh47geRv2-",
       "src": "_library/assets/lib-nr1ts8De3XVMh47geRv2-.jpg",
       "kind": "reference",
