@@ -38,5 +38,19 @@
     }
   ],
   "videos": [],
-  "textCards": []
+  "textCards": [
+    {
+      "id": "IGL5buPzCrGm3gaf6hNkZ",
+      "x": 1533.809523809526,
+      "y": 262.7738095238099,
+      "width": 400,
+      "height": 300,
+      "text": "",
+      "baseFontSizePx": 16,
+      "source": {
+        "kind": "manual"
+      },
+      "createdAt": 1780502583316
+    }
+  ]
 }
