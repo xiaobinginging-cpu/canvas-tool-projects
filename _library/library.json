@@ -1,6 +1,21 @@
 {
   "materials": [
     {
+      "id": "lib-SQ9Kxc8eipZYxumrSmyTN",
+      "src": "_library/assets/lib-SQ9Kxc8eipZYxumrSmyTN.png",
+      "kind": "reference",
+      "name": "图片6.png",
+      "tags": [
+        "11"
+      ],
+      "thumb": {
+        "w": 401,
+        "h": 600
+      },
+      "addedAt": 1780501106987,
+      "sourceImageId": "J177EiwSqaQXOC1WSQ8tA"
+    },
+    {
       "id": "lib-HP_xpAp3pJS74lDTBk71g",
       "src": "_library/assets/lib-HP_xpAp3pJS74lDTBk71g.jpg",
       "kind": "raw",
